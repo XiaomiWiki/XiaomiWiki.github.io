@@ -9,6 +9,7 @@
 * [Regional versions of Xiaomi devices](docs/versions.md)
 * [List of wired Xiaomi earphones](docs/earphones.md)
 * [Verify the authenticity of Xiaomi products](docs/authentication.md)
+* [Top tier Xiaomi devices](/docs/godphone.md)
 
 ---
 
