@@ -6,7 +6,7 @@
 
 * Do not buy a [Chinese Version](versions.md), even if it comes with an official Global ROM pre-installed. On Chinese Versions, it's not possible to boot the Global Stable/Developer ROM with a locked bootloader, which is inevitable to pass SafetyNet and get Google Play certification. Additionally, Xiaomi rarely releases Global ROMs for devices which are only sold in Mainland China and China ROMs are difficult to set up and use globally, so if you want a Global ROM, wait for a [Global Version](versions.md) to come out and buy that.
 
-* If you purchase a Chinese device with MIUI from a reseller, it might come with a reseller ROM if there's no official Global ROM available for it at the time of purchase. These ROMs are badly optimised, buggy, not safe to use and often bloated. If you encounter a reseller ROM, you have to get rid of it by yourself. Learn more about reseller ROMs [here](customroms.md).
+* If you purchase a Chinese device with MIUI from a reseller, it might come with a reseller ROM if there's no official Global ROM available for it at the time of purchase. These ROMs are badly optimised, buggy, not safe to use and often bloated. If you encounter a reseller ROM, you have to get rid of it by yourself. Learn more about reseller ROMs [here](custom.md).
 
 * Xiaomi devices, especially Chinese models, are made for the Chinese market and support primarily Chinese networks so they probably don't support all the LTE bands used in your country. Some models have Global Versions which support additional LTE bands used outside of China. See detailed network compatibility [here](ltecoverage.md).
 

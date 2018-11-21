@@ -8,13 +8,12 @@
 * [Regional names of Xiaomi devices](docs/names.md)
 * [Regional versions of Xiaomi devices](docs/versions.md)
 * [List of wired Xiaomi earphones](docs/earphones.md)
-* [Verify the authenticity of Xiaomi products](docs/authentication.md)
-* [Top tier Xiaomi devices](/docs/godphone.md)
+* [Verify the authenticity of Xiaomi products](docs/verify.md)
 
 ---
 
 * [MIUI explained](docs/miui.md)
-* [Custom ROMs explained](docs/customroms.md)
+* [Custom ROMs explained](docs/custom.md)
 * [Fastboot ROMs & Recovery ROMs explained](docs/fastbootrecovery.md)
 * [Anti-Rollback Protection explained](docs/antirollback.md)
 
