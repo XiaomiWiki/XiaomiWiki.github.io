@@ -4,7 +4,7 @@ There are a couple of Xiaomi devices that don't have official Global ROMs availa
 
 **For these purposes, the China Developer ROM is recommended.**
 
-### Debloating the ROM
+### Debloat the ROM
 
 * Go to Settings > Installed apps and uninstall every app you can on the list.
 
@@ -12,7 +12,7 @@ There are a couple of Xiaomi devices that don't have official Global ROMs availa
 
 * You can uninstall most other systems apps using the [Xiaomi ADB/Fastboot Tools](systemapps.md).
 
-### Installing the Google Play Store
+### Install the Google Play Store
 
 1. Go to Settings > Additional settings > Privacy and enable Unknown sources.
 
@@ -26,13 +26,13 @@ There are a couple of Xiaomi devices that don't have official Global ROMs availa
 
 6. At the end, the big button turns red. Upon tapping it, the Google Play Store launches and you can set up your Google account.
 
-### Setting app defaults
+### Set app defaults
 
 1. Go to Settings > Installed apps, tap on the three dots in the top-right corner and select Defaults.
 
 2. Here set the defaults to apps you downloaded, where applicable.
 
-### Making everything English
+### Make everything English
 
 1. Install a keyboard (like Gboard or SwiftKey) and Google Text-to-speech from the Google Play Store.
 
@@ -46,7 +46,7 @@ There are a couple of Xiaomi devices that don't have official Global ROMs availa
 
 6. Select Text-to-speech output and set it to Google's own.
 
-### Enabling Google location services for apps
+### Enable Google location services for apps
 
 Most apps from the Google Play Store use Google's location services which are not present on the China ROM and aren't activated when you install the Google Play Store.
 
@@ -54,11 +54,11 @@ Most apps from the Google Play Store use Google's location services which are no
 
 2. By tapping on Location access, you can also give access to every app you want to see your location.
 
-### Syncing with your Google account
+### Sync with your Google account
 
 1. Go to Settings > Sync > Google and tap on More then Sync now.
 
-### Giving the necessary permissions to Google services
+### Give Google services the necessary permissions
 
 1. Go to Settings > Permissions.
 

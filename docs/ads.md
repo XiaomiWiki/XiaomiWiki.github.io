@@ -20,4 +20,4 @@ Advertising is an integral part of Xiaomi’s internet services, a key component
 
 5. Go to Settings > Additional settings > Region and set it to a Western country.
 
-    Note: Setting an E.U. country will disable the Themes app.
+    Note: Choosing an E.U. country will disable the Themes app.
