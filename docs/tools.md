@@ -74,4 +74,4 @@
 * Get links to the latest Fastboot ROMs or download them right away
 * Switch between system/fastboot/EDL/recovery modes
 
-[Download](https://github.com/Saki-EU/XiaomiADBFastbootTools)
+[Download](https://saki-eu.github.io/XiaomiADBFastbootTools/)
