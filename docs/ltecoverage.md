@@ -4,7 +4,7 @@
 
 **Devices**
 
-* Mi MIX 3 (256GB)
+* Mi MIX 3 (256GB) / Global Version
 * Mi MIX 2S Exclusive / Global Version
 * Mi MIX 2
 * Mi Note 2 Global Edition

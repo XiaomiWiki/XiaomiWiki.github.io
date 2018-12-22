@@ -86,7 +86,7 @@
 * SIM slots: Nano + Nano
 * VoLTE: Yes
 
-**Standard Edition (128GB)**
+**Chinese Version (128GB)**
 
 | Network | Bands |
 |:---------:|:--------------------------------:|
@@ -97,7 +97,7 @@
 | GSM | B2/B3/B5/B8 |
 | CDMA/EVDO | BC0 |
 
-**Global Edition (256GB)**
+**Chinese Version (256GB) / Global Version**
 
 | Network | Bands |
 |:---------:|:--------------------------------------------------------------------:|
