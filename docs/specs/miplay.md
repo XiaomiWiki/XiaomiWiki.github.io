@@ -39,7 +39,7 @@
 ---
 
 * Sensor: ?
-* Resolution: ?
+* Resolution: 2 megapixels
 * Pixel size: ?
 * Aperture: ?
 * OIS: No
@@ -68,8 +68,8 @@
 
 ### Dimensions
 
-* Size: 157.9 x 76.4 x 8.26 mm
-* Weight: 182 g
+* Size: 147.76 x 71.89 x 7.8 mm
+* Weight: 150 g
 
 ### Connectivity
 
