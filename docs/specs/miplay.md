@@ -1,47 +1,47 @@
-## Redmi Note 6 Pro
+## Mi Play
 
 ### General
 
 * Regional name(s): -
-* Android codename: tulip
-* MIUI codename: HMNote6Pro
+* Android codename: ?
+* MIUI codename: ?
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 636 @ 1.8 Ghz
-* Memory: 3GB/4GB LPDDR4x
-* Storage: 32GB/64GB eMMC 5.1
-* MicroSD expansion: Up to 256GB
+* SoC: MediaTek Helio P35 @ 2.3 Ghz
+* Memory: 4GB LPDDR4x
+* Storage: 64GB eMMC 5.1
+* MicroSD expansion: Yes
 
 ### Display
 
 * Panel: IPS LCD
-* Size: 6.26 inches
+* Size: 5.84 inches
 * Resolution: 2280 x 1080 pixels
-* Pixel density: 403 ppi
+* Pixel density: 432 ppi
 * Aspect ratio: 19:9
-* Brightness: 500 nits
+* Brightness: ?
 * Contrast ratio: 1500:1
-* Colour gamut: 84% NTSC
+* Colour gamut: ?
 
 ### Camera
 
 **Rear camera**
 
-* Sensor: Samsung S5K2L7
+* Sensor: ?
 * Resolution: 12 megapixels
-* Pixel size: 1.4 µm
-* Aperture: f/1.9
+* Pixel size: 1.25 µm
+* Aperture: f/2.2
 * OIS: No
-* Autofocus: Dual PD
+* Autofocus: PDAF
 * Flash: LED
 
 ---
 
-* Sensor: Samsung S5K5E8
-* Resolution: 5 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.2
+* Sensor: ?
+* Resolution: ?
+* Pixel size: ?
+* Aperture: ?
 * OIS: No
 
 **Video recording**
@@ -52,25 +52,17 @@
 
 **Front camera**
 
-* Sensor: Samsung S5K3T1
-* Resolution: 20 megapixels
-* Pixel size: 0.9 µm
-* Aperture: f/2.0
+* Sensor: ?
+* Resolution: 8 megapixels
+* Pixel size: ?
+* Aperture: ?
 * OIS: No
 * Autofocus: No
 * Flash: No
 
----
-
-* Sensor: Omnivision OV02A10
-* Resolution: 2 megapixels
-* Pixel size: 1.75 µm
-* Aperture: f/2.2
-* OIS: No
-
 ### Battery
 
-* Capacity: 4000 mAh
+* Capacity: 3000 mAh
 * Wired charging: 10W
 * Wireless charging: No
 
@@ -84,14 +76,16 @@
 **Cellular**
 
 * SIM slots: Nano + Nano
-* VoLTE: No
+* VoLTE: Yes
 
 | Network | Bands |
-|:-------:|:---------------------:|
-| FDD-LTE | B1/B3/B4/B5/B7/B8/B20 |
-| TD-LTE | B38/B40 |
-| WCDMA | B1/B2/B4/B5/B8 |
+|:---------:|:-------------------:|
+| FDD-LTE | B1/B3/B5/B7/B8 |
+| TD-LTE | B34/B38/B39/B40/B41 |
+| TD-SCDMA | B34/B39 |
+| WCDMA | B1/B2/B5/B8 |
 | GSM | B2/B3/B5/B8 |
+| CDMA/EVDO | BC0 |
 
 **Wi-Fi**
 
@@ -101,7 +95,7 @@
 
 **Bluetooth & NFC**
 
-* Bluetooth: 5.0 
+* Bluetooth: 4.2
 * NFC: No
 
 **Ports**
@@ -125,11 +119,11 @@
 
 ### Sensors
 
-* Infrared: Yes
+* Infrared: No
 * Proximity: Yes
 * Gyroscope: Yes
 * Ambient light: Yes
 * Accelerometer: Yes
 * Barometer: No
 * Electronic compass: Yes
-* Hall: Yes
+* Hall: No

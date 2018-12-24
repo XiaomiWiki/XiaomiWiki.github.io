@@ -142,6 +142,7 @@
 * Mi 6X
 * Mi 6
 * Mi Max 2
+* Mi Play
 * Redmi S2
 * Redmi 6
 * Redmi 6 Pro
