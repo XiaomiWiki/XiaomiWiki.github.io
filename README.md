@@ -53,6 +53,7 @@
 * [Mi A2](docs/specs/mia2.md)
 * [Mi A2 Lite](docs/specs/mia2.md)
 * [Mi A1](docs/specs/mia1.md)
+* [Mi Play](docs/specs/miplay.md)
 * [Mi 8 Pro](docs/specs/mi8pro.md)
 * [Mi 8 Lite](docs/specs/mi8lite.md)
 * [Mi 8](docs/specs/mi8.md)
