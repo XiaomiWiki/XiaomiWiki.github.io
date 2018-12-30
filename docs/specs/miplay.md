@@ -4,7 +4,7 @@
 
 * Regional name(s): -
 * Android codename: ?
-* MIUI codename: ?
+* MIUI codename: lotus
 
 ### Hardware
 

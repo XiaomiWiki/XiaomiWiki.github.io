@@ -38,7 +38,7 @@
 
 ---
 
-* Sensor: Samsung S5K3M3
+* Sensor: Samsung S5K3M3+
 * Resolution: 12 megapixels
 * Pixel size: 1.0 µm
 * Aperture: ?
