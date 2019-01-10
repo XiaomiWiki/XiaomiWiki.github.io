@@ -149,6 +149,7 @@
 * Redmi 6A
 * Redmi 5
 * Redmi 5 Plus
+* Redmi Note 7
 * Redmi Note 5
 * Redmi Note 5A
 * Redmi Note 5A Prime

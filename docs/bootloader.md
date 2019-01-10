@@ -12,7 +12,7 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
     **You will only be able to proceed if it's been more than 360 hours that you successfully added your account and device.**
 
-    **The waiting time on models manufactured before 2018 is 72 hours. On models manufactured in July 2018 or later, it is 720 hours. Currently there's no known way to bypass the waiting time.**
+    **The waiting time on models manufactured before 2018 is 72 hours. On models manufactured in July 2018 or later, it is 360 hours. Currently there's no known way to bypass the waiting time.**
 
 4. Download, extract and run [MiUnlock](tools.md).
 

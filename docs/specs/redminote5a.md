@@ -55,7 +55,7 @@
 ### Battery
 
 * Capacity: 3080 mAh
-* Wired charging: -
+* Wired charging: ?
 * Wireless charging: No
 
 ### Dimensions
