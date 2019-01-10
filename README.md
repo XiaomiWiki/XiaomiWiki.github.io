@@ -66,6 +66,7 @@
 * [Mi 5s](docs/specs/mi5s.md)
 * [Mi 5s Plus](docs/specs/mi5splus.md)
 * [Mi 5](docs/specs/mi5.md)
+* [Redmi Note 7](docs/specs/redminote7.md)
 * [Redmi Note 6 Pro](docs/specs/redminote6pro.md)
 * [Redmi Note 5](docs/specs/redminote5.md)
 * [Redmi Note 5A](docs/specs/redminote5a.md)
