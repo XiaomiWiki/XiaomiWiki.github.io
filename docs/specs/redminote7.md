@@ -3,7 +3,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: lavender
 * MIUI codename: HMNote7
 
 ### Hardware
