@@ -1,6 +1,6 @@
 ## Recommended resellers
 
-[HK Goldway](https://goldway.aliexpress.com/store/311331), [Mi Store](https://xiaomimi.aliexpress.com/store/2800188), [Mi Global Store](https://www.aliexpress.com/store/3010045), [Mi Zealer](https://www.aliexpress.com/store/3209109) on AliExpress
+[HK Goldway](https://goldway.aliexpress.com/store/311331), [Mi Global Store](https://www.aliexpress.com/store/3010045), [Mi Zealer](https://www.aliexpress.com/store/3209109) on AliExpress
 
 - Pricing: low
 - Tax-free shipping: available for EU countries (DHL/GLS)
