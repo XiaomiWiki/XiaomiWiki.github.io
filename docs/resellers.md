@@ -6,12 +6,6 @@
 - Tax-free shipping: available for EU countries (DHL/GLS)
 - Customer support: negligible
 
-[eGlobal Central EU](https://www.eglobalcentral.eu/) / [UK](https://www.eglobalcentraluk.com/) / [FR](https://www.eglobalcentral.fr/) / [DE](https://www.eglobalcentral.de/) / [ES](https://www.eglobalcentral.com.es/) / [IT](https://www.eglobalcentral.co.it/) / [US / CA](https://www.eglobalcentral.com/) / [AU](https://www.eglobalcentralau.com/)
-
-- Pricing: low
-- Tax-free shipping: available for all regions
-- Customer support: moderate
-
 [TradingShenzhen](https://tradingshenzhen.com/)
 
 - Pricing: moderate
