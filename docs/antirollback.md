@@ -23,11 +23,3 @@ Having an anti version means that you cannot flash whatever ROM you want, only R
 For now, only Fastboot ROMs check for anti version and act accordingly. They will abort without making any changes if the device's anti version is higher than its own.
 
 Custom ROMs are unaffected by ARB and flashing them won't brick the device or change the anti version.
-
-### ARP-enabled devices
-
-* Mi 6X (wayne)
-* Mi 8 (dipper)
-* Mi Max 3 (nitrogen)
-* Redmi 6 Pro (sakura)
-* Redmi Note 5 (whyred)
