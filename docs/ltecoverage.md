@@ -4,9 +4,9 @@
 
 **Devices**
 
-* Mi MIX 3 (256GB) / Global Version
-* Mi MIX 2S Exclusive / Global Version
 * Mi MIX 2
+* Mi MIX 2S Exclusive / Global Version
+* Mi MIX 3 (256GB) / Global Version
 * Mi Note 2 Global Edition
 
 **Coverage by region**
@@ -29,11 +29,11 @@
 
 **Devices**
 
-* Mi MIX 3 (128GB)
-* Mi MIX 2S Standard Edition
-* Mi 8 Pro
 * Mi 8
 * Mi 8 Explorer Edition
+* Mi 8 Pro
+* Mi MIX 2S Standard Edition
+* Mi MIX 3 (128GB)
 
 **Coverage by region**
 
@@ -56,21 +56,21 @@
 **Devices**
 
 * Black Shark Helo
-* Mi Max 3
+* Mi 8 Lite Global Version
+* Mi A1
 * Mi A2
 * Mi A2 Lite
-* Mi A1
-* Mi 8 Lite Global Version
-* Redmi Note 6 Pro
-* Redmi Note 5 Global Version
-* Redmi Note 5A Global Version
-* Redmi Note 5A Prime Global Version
-* Redmi S2 Global Version
-* Redmi 6 Global Version
-* Redmi 6A Global Version
+* Mi Max 3
 * Redmi 5 Global Version
 * Redmi 5 Plus Global Version
 * Redmi 5A Global Version
+* Redmi 6 Global Version
+* Redmi 6A Global Version
+* Redmi Note 5 Global Version
+* Redmi Note 5A Global Version
+* Redmi Note 5A Prime Global Version
+* Redmi Note 6 Pro
+* Redmi S2 Global Version
 
 **Coverage by region**
 
@@ -136,26 +136,26 @@
 
 **Devices**
 
-* Mi Note 3
+* Mi 6
+* Mi 6X
 * Mi 8 Lite
 * Mi 8 SE
-* Mi 6X
-* Mi 6
 * Mi Max 2
+* Mi Note 3
+* Mi Pad 4
+* Mi Pad 4 Plus
 * Mi Play
-* Redmi S2
+* Redmi 5
+* Redmi 5 Plus
+* Redmi 5A
 * Redmi 6
 * Redmi 6 Pro
 * Redmi 6A
-* Redmi 5
-* Redmi 5 Plus
-* Redmi Note 7
 * Redmi Note 5
 * Redmi Note 5A
 * Redmi Note 5A Prime
-* Redmi 5A
-* Mi Pad 4
-* Mi Pad 4 Plus
+* Redmi Note 7
+* Redmi S2
 
 **Coverage by region**
 
