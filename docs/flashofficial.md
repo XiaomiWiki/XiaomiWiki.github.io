@@ -46,7 +46,7 @@
 
     `clean all` to perform a clean install without locking the bootloader.
 
-    `save user data` to update. (No migration between China/Global or Stable/Developer!)
+    `save user data` to update your current ROM. (No migration between MIUI branches!)
 
     `clean all and lock` to perform a clean install and lock the bootloader.
 
