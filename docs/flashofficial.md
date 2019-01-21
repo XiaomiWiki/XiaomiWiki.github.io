@@ -86,7 +86,7 @@
 
     **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
 
-4. Connect the device to your PC and enter EDL mode by following the See the instructions [here](edl.md).
+4. Connect the device to your PC and enter EDL mode by following the instructions [here](edl.md).
 
 5. Launch MiFlash and browse for the unzipped folder by clicking the Select button. Make sure the file path has no spaces in it! 
 
