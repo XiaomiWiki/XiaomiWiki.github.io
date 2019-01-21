@@ -1,22 +1,20 @@
 ## Access EDL mode
 
-EDL (Emergency Download) mode is used in Qualcomm-based devices for unbricking and flashing purposes. EDL mode bypasses the bootloader and MiFlash can interact with it. There are several ways to access EDL mode but they usually require the bootloader to be unlocked nonetheless.
+EDL (Emergency Download) mode is used in Qualcomm-based devices for unbricking/flashing purposes. EDL mode bypasses the bootloader and MiFlash can interact with it. There are several ways to access EDL mode but they usually require the bootloader to be unlocked.
 
-**Note: EDL mode is not accessible on locked devices that were released after 2016.**
+**Note: EDL mode is not accessible on locked devices that were released in 2017 or later.**
 
 ### ADB/Fastboot method
 
 1. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
 
-2. Connect the device to your computer and load it in ADB or Fastboot mode. the device info should appear in the application.
-
-    For details, see the instructions on GitHub.
+2. Connect the device in ADB or Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
 3. Reboot the device to EDL mode by clicking Reboot device to EDL in the top menu.
 
 4. Upon entering EDL mode, the phone's screen should turn blank and the notification LED might also be blinking.
 
-    To exit EDL mode, hold the Power button for about 10 seconds.
+    To exit EDL mode, hold the Power button for 5-10 seconds.
 
 ### Fastboot method for the Redmi Note 3 SD / Special Edition
 

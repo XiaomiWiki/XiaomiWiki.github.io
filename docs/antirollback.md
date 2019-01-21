@@ -6,9 +6,7 @@ Anti-Rollback Protection (ARP) was introduced by Google in Android 8.0 Oreo and 
 
 1. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
 
-2. Connect the device to your computer and load it in Fastboot mode. The device info should appear in the application.
-
-    For details, see the instructions on GitHub.
+2. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
 If don't get any number for anti version, ARP isn't enabled. If you get a number, ARP is enabled.
 

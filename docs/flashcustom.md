@@ -16,9 +16,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
 
-3. Connect the device to your computer and load it in Fastboot mode. The device info should appear in the application.
-
-    For details, see the instructions on GitHub.
+3. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
 4. On the Fastboot tab, in the Flasher module browse for your recovery image, select the recovery partition and click Boot into image.
 
@@ -44,11 +42,9 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
 
-3. Connect the device to your computer and load it in Fastboot mode. The device info should appear in the application.
+3. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
-    For details, see the instructions on GitHub.
-
-4. On the Fastboot tab, in the Flasher module check the autoboot option, then browse for your recovery image, select the recovery partition and click Flash image.
+4. On the Fastboot tab, in the Flasher module, check the autoboot option, then browse for your recovery image, select the recovery partition and click Flash image.
 
     **Note:** If anti-rollback protection is enabled on the device, you have to disable the anti-rollback safeguard before flashing.
 
@@ -58,7 +54,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 5. When asked in TWRP, swipe to allow modifications and proceed with what you want to do in TWRP.
 
-    **Warning:** To use official MIUI with TWRP flashed, you have to disable dm-verity by flashing Magisk or Lazyflasher. Dm-verity causes MIUI to clear TWRP on boot and may also bootloop your device.
+    **Warning:** To use official MIUI with TWRP flashed, you have to disable dm-verity by flashing Magisk or Lazyflasher. Dm-verity causes MIUI to clear TWRP on boot and may also bootloop the device.
 
 ### Clean install in TWRP
 

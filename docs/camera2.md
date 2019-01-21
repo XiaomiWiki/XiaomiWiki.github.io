@@ -14,7 +14,7 @@ Some camera apps on Android, like the modded Google Camera, use Android's [Camer
 
 3. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
 
-4. Connect the device to your computer and load it in the app by clicking Menu > Check for device. The device info should appear in the application.
+4. Connect the device to your computer. The application should detect it automatically.
 
 5. On the ADB tab, in the Camera2 module, enable camera2, as well as EIS if you want to.
 

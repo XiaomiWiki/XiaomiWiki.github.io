@@ -6,9 +6,7 @@ By default, MIUI comes with a lot of system apps that replace stock Android's ow
 
 1. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
 
-2. Connect the device to your computer and load it in ADB mode. The device info should appear in the application.
-
-    For details, see the instructions on GitHub.
+2. Connect the device in ADB mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
 3. On the ADB tab, in the Uninstaller module, select all the apps and services you wish to remove and click Uninstall!
 

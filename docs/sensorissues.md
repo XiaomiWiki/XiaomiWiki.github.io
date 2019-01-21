@@ -6,7 +6,7 @@ On Xiaomi devices, sensor data is stored in a partition called *persist*. This p
 
 **Requirements:** Qualcomm Snapdragon chipset
 
-1. Download the latest MiFlash from [here](tools.md) and install it if needed.
+1. Download the latest MiFlash from [here](tools.md) and install it.
 
 2. Download the Fastboot ROM you want to flash from [here](http://en.miui.com/a-234.html) and unzip it.
 
