@@ -26,6 +26,6 @@ On Xiaomi devices, sensor data is stored in a partition called *persist*. This p
 
 8. Click Flash and wait until the flashing sequence finishes.
 
-9. Disconnect the device and hold the Power button until the it turns on.
+9. Disconnect the device and hold the Power button until the device turns on.
 
     The first boot may take up to 15 minutes.

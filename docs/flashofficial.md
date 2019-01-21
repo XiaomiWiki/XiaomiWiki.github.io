@@ -94,6 +94,6 @@
 
 7. Click Flash and wait until the flashing sequence finishes.
 
-8. Disconnect the device and hold the Power button until the it turns on.
+8. Disconnect the device and hold the Power button until the device turns on.
 
     The first boot may take up to 15 minutes.
