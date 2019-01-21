@@ -41,11 +41,6 @@
 
 * [Black Shark](docs/specs/blackshark.md)
 * [Black Shark Helo](docs/specs/blacksharkhelo.md)
-* [Mi 5](docs/specs/mi5.md)
-* [Mi 5c](docs/specs/mi5c.md)
-* [Mi 5s](docs/specs/mi5s.md)
-* [Mi 5s Plus](docs/specs/mi5splus.md)
-* [Mi 5X](docs/specs/mi5x.md)
 * [Mi 6](docs/specs/mi6.md)
 * [Mi 6X](docs/specs/mi6x.md)
 * [Mi 8](docs/specs/mi8.md)

@@ -84,7 +84,6 @@
 **Cellular**
 
 * SIM slots: Nano + Nano
-* VoLTE: Yes
 
 **Chinese Version (128GB)**
 

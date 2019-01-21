@@ -68,7 +68,6 @@
 **Cellular**
 
 * SIM slots: Nano + Nano
-* VoLTE: No
 
 **CN Version**
 

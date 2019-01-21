@@ -68,7 +68,6 @@
 **Cellular**
 
 * SIM slots: Nano
-* VoLTE: No
 
 |  Network  |   Bands   |
 |:---------:|:-------------------:|
