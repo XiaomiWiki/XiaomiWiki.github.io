@@ -28,7 +28,7 @@
 
 **Rear camera**
 
-* Sensor: ?
+* Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
 * Pixel size: 1.6 µm
 * Aperture: f/1.8
@@ -38,9 +38,9 @@
 
 ---
 
-* Sensor: ?
+* Sensor: Samsung S5K5E8
 * Resolution: 5 megapixels
-* Pixel size: ?
+* Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
 
@@ -52,9 +52,9 @@
 
 **Front camera**
 
-* Sensor: ?
+* Sensor: OmniVision OV13855
 * Resolution: 13 megapixels
-* Pixel size: ?
+* Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
 * Autofocus: No
