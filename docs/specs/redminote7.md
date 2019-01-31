@@ -30,7 +30,7 @@
 
 * Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
-* Pixel size: 1.6 µm
+* Pixel size: 0.8 µm
 * Aperture: f/1.8
 * OIS: No
 * Autofocus: PDAF
