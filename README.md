@@ -66,6 +66,7 @@
 * [Redmi 6](docs/specs/redmi6.md)
 * [Redmi 6 Pro](docs/specs/redmi6pro.md)
 * [Redmi 6A](docs/specs/redmi6a.md)
+* [Redmi Go](docs/specs/redmigo.md)
 * [Redmi Note 5](docs/specs/redminote5.md)
 * [Redmi Note 5A](docs/specs/redminote5a.md)
 * [Redmi Note 5A Prime](docs/specs/redminote5aprime.md)

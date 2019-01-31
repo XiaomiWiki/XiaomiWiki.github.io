@@ -66,6 +66,7 @@
 * Redmi 5A Global Version
 * Redmi 6 Global Version
 * Redmi 6A Global Version
+* Redmi Go
 * Redmi Note 5 Global Version
 * Redmi Note 5A Global Version
 * Redmi Note 5A Prime Global Version
