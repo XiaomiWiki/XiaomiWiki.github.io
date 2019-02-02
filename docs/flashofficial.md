@@ -80,7 +80,7 @@
 
 1. Download the latest MiFlash from [here](tools.md) and install it.
 
-2. Launch MiFlash and install the necessary drivers by clicking Driver > Install/Reinstall in the top menu.
+2. Launch MiFlash, install the necessary drivers by clicking Driver > Install/Reinstall in the top menu then reboot your PC.
 
 3. Download the Fastboot ROM you want to flash from [here](http://en.miui.com/a-234.html) and unzip it.
 
