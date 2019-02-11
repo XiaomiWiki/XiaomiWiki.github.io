@@ -64,6 +64,7 @@
 
 * Debloat any Xiaomi device, uninstall any app you want
 * Enable camera2 or EIS (TWRP required)
+* Transfer files between a device and a computer
 * Get detailed information about any Xiaomi device
 * Change the screen density (DPI)
 * Flash any partition with an image file
