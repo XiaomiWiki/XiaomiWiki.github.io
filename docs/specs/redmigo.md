@@ -2,7 +2,7 @@
 
 ### General
 
-* Regional name(s): -
+* Regional name(s): tiare
 * Android codename: ?
 * MIUI codename: -
 
