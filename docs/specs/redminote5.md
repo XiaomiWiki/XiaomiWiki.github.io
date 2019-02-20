@@ -11,7 +11,7 @@
 * SoC: Qualcomm Snapdragon 636 @ 1.8 Ghz
 * Memory: 3GB/4GB/6GB LPDDR4x @ 1333 Mhz
 * Storage: 32GB/64GB/128GB eMMC 5.1
-* MicroSD expansion: Up to 128GB
+* MicroSD expansion: Yes
 
 ### Display
 

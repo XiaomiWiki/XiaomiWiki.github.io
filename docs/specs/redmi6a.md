@@ -11,7 +11,7 @@
 * SoC: MediaTek Helio A22 @ 2.0 Ghz
 * Memory: 2GB
 * Storage: 16GB
-* MicroSD expansion: Up to 256GB
+* MicroSD expansion: Yes
 
 ### Display
 

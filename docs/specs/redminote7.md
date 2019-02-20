@@ -11,7 +11,7 @@
 * SoC: Qualcomm Snapdragon 660 @ 2.2 Ghz
 * Memory: 3GB/4GB/6GB
 * Storage: 32GB/64GB
-* MicroSD expansion: Up to 256GB
+* MicroSD expansion: Yes
 
 ### Display
 

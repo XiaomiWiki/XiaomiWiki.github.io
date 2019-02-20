@@ -11,7 +11,7 @@
 * SoC: Qualcomm Snapdragon 425 @ 1.4 Ghz
 * Memory: 1GB
 * Storage: 8GB/16GB
-* MicroSD expansion: Up to 128GB
+* MicroSD expansion: Yes
 
 ### Display
 

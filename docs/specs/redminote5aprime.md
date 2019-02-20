@@ -11,7 +11,7 @@
 * SoC: Qualcomm Snapdragon 435
 * Memory: 3GB
 * Storage: 32GB
-* MicroSD expansion: Up to 128GB
+* MicroSD expansion: Yes
 
 ### Display
 

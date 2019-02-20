@@ -11,7 +11,7 @@
 * SoC: Qualcomm Snapdragon 625 @ 2.0 Ghz
 * Memory: 4GB
 * Storage: 32GB/64GB/128GB
-* MicroSD expansion: Up to 128GB
+* MicroSD expansion: Yes
 
 ### Display
 
