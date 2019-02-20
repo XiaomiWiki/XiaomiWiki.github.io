@@ -94,6 +94,7 @@
 **Devices**
 
 * Black Shark
+* Mi 9
 
 **Coverage by region**
 
@@ -141,6 +142,7 @@
 * Mi 6X
 * Mi 8 Lite
 * Mi 8 SE
+* Mi 9 SE
 * Mi Max 2
 * Mi Note 3
 * Mi Pad 4
