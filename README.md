@@ -48,6 +48,8 @@
 * [Mi 8 Lite](docs/specs/mi8lite.md)
 * [Mi 8 Pro](docs/specs/mi8pro.md)
 * [Mi 8 SE](docs/specs/mi8se.md)
+* [Mi 9](docs/specs/mi9.md)
+* [Mi 9 SE](docs/specs/mi9se.md)
 * [Mi A1](docs/specs/mia1.md)
 * [Mi A2](docs/specs/mia2.md)
 * [Mi A2 Lite](docs/specs/mia2.md)
