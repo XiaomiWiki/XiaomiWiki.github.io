@@ -3,7 +3,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: cepheus
 * MIUI codename: MI9
 
 ### Hardware
