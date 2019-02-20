@@ -3,7 +3,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: grus
 * MIUI codename: MI9SE
 
 ### Hardware
