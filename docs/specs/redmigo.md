@@ -33,7 +33,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.0
 * OIS: No
-* Autofocus: Yes
+* Autofocus: Contrast
 * Flash: LED
 
 **Video recording**

@@ -17,7 +17,7 @@
 
 **Full Ceramic Version**
 
-* SoC: Qualcomm Snapdragon 835
+* SoC: Qualcomm Snapdragon 835 @ 2.45 Ghz
 * Memory: 8GB LPDDR4x
 * Storage: 128GB UFS 2.1
 * MicroSD expansion: No
@@ -42,7 +42,7 @@
 * Pixel size: 1.25 µm
 * Aperture: f/2.0
 * OIS: Yes
-* Autofocus: PDAF
+* Autofocus: Phase detection
 * Flash: Dual tone LED
 
 **Video recording**
@@ -98,7 +98,7 @@
 
 * Protocols: 802.11 a/b/g/n/ac
 * Bands: 2.4 Ghz / 5 Ghz
-* MIMO: 2x2 with MU-MIMO
+* MIMO: 2x2 | MU-MIMO
 
 **Bluetooth & NFC**
 
@@ -127,7 +127,7 @@
 ### Sensors
 
 * Infrared: No
-* Proximity: Ultrasonic
+* Proximity: Yes
 * Gyroscope: Yes
 * Ambient light: Yes
 * Accelerometer: Yes

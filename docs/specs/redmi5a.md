@@ -33,7 +33,7 @@
 * Pixel size: ?
 * Aperture: f/2.2
 * OIS: No
-* Autofocus: Yes
+* Autofocus: Contrast
 * Flash: LED
 
 **Video recording**

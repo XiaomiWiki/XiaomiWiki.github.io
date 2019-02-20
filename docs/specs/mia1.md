@@ -33,7 +33,7 @@
 * Pixel size: 1.25 µm
 * Aperture: f/2.2
 * OIS: No
-* Autofocus: PDAF
+* Autofocus: Phase detection
 * Flash: Dual tone LED
 
 ---

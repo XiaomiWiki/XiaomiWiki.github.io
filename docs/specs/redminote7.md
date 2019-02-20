@@ -33,7 +33,7 @@
 * Pixel size: 0.8 µm
 * Aperture: f/1.8
 * OIS: No
-* Autofocus: PDAF
+* Autofocus: Phase detection
 * Flash: LED
 
 ---

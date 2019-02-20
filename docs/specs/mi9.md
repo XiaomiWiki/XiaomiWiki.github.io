@@ -100,7 +100,7 @@
 
 * Protocols: 802.11 a/b/g/n/ac
 * Bands: 2.4 Ghz / 5 Ghz
-* MIMO: 2x2 with MU-MIMO
+* MIMO: 2x2 | MU-MIMO
 
 **Bluetooth & NFC**
 

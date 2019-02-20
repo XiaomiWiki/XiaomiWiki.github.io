@@ -33,7 +33,7 @@
 * Pixel size: 1.0 µm
 * Aperture: f/2.0
 * OIS: No
-* Autofocus: PDAF
+* Autofocus: Phase detection
 * Flash: Dual tone LED
 
 **Video recording**
@@ -49,7 +49,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.0
 * OIS: No
-* Autofocus: Yes
+* Autofocus: Contrast
 * Flash: No
 
 ### Battery
