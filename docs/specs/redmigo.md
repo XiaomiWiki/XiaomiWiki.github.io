@@ -2,8 +2,8 @@
 
 ### General
 
-* Regional name(s): tiare
-* Android codename: ?
+* Regional name(s): -
+* Android codename: tiare
 * MIUI codename: -
 
 ### Hardware
@@ -28,7 +28,7 @@
 
 **Rear camera**
 
-* Sensor: ?
+* Sensor: Samsung S5K4H7
 * Resolution: 8 megapixels
 * Pixel size: 1.12 µm
 * Aperture: f/2.0
@@ -44,7 +44,7 @@
 
 **Front camera**
 
-* Sensor: ?
+* Sensor: Samsung S5K5E8
 * Resolution: 5 megapixels
 * Pixel size: 1.12 µm
 * Aperture: f/2.2
