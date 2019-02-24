@@ -6,7 +6,7 @@
 
 * Mi MIX 2
 * Mi MIX 2S Exclusive / Global Version
-* Mi MIX 3 (256GB) / Global Version
+* Mi MIX 3 Global Version
 * Mi Note 2 Global Edition
 
 **Coverage by region**
@@ -32,6 +32,7 @@
 * Mi 8
 * Mi 8 Explorer Edition
 * Mi 8 Pro
+* Mi 9 Global Version
 * Mi MIX 2S Standard Edition
 * Mi MIX 3 (128GB)
 
@@ -61,6 +62,7 @@
 * Mi A2
 * Mi A2 Lite
 * Mi Max 3
+* Mi MIX 3 5G
 * Redmi 5 Global Version
 * Redmi 5 Plus Global Version
 * Redmi 5A Global Version

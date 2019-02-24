@@ -56,6 +56,7 @@
 * [Mi MIX 2](docs/specs/mimix2.md)
 * [Mi MIX 2S](docs/specs/mimix2s.md)
 * [Mi MIX 3](docs/specs/mimix3.md)
+* [Mi MIX 3 5G](docs/specs/mimix35g.md)
 * [Mi Max 2](docs/specs/mimax2.md)
 * [Mi Max 3](docs/specs/mimax3.md)
 * [Mi Note 2](docs/specs/minote2.md)

@@ -72,7 +72,7 @@
 |  Network  |   Bands   |
 |:---------:|:-------------------:|
 |  FDD-LTE  |    B1/B3/B5/B7/B8   |
-|   TD-LTE  | B34/B38/B39/B40/B41 |
+|   TDD-LTE  | B34/B38/B39/B40/B41 |
 
 **Wi-Fi**
 

@@ -33,7 +33,7 @@
 * Pixel size: 1.4 µm
 * Aperture: f/1.8
 * OIS: Yes
-* Autofocus: Dual PD
+* Autofocus: Dual Pixel
 * Flash: LED
 
 ---
@@ -90,7 +90,7 @@
 | Network | Bands |
 |:---------:|:--------------------------------:|
 | FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B17/B20 |
-| TD-LTE | B34/B38/B39/B40/B41 |
+| TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
@@ -101,7 +101,7 @@
 | Network | Bands |
 |:---------:|:--------------------------------------------------------------------:|
 | FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B13/B17/B18/B19/B20/B25/B26/B28/B29/B30/B66 |
-| TD-LTE | B34/B38/B39/B40/B41 |
+| TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B3/B4/B5/B6/B8/B9/B19 |
 | GSM | B2/B3/B5/B8 |

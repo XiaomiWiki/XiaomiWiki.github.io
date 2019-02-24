@@ -80,7 +80,7 @@
 | Network | Bands |
 |:-------:|:------------------------:|
 | FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20 |
-| TD-LTE | B38/B40 |
+| TDD-LTE | B38/B40 |
 | WCDMA | B1/B2/B5/B8 |
 | GSM | B2/B3/B5/B8 |
 

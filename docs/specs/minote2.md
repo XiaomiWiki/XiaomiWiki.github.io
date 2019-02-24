@@ -74,7 +74,7 @@
 |  Network  | Bands |
 |:---------:|:---------------:|
 |  FDD-LTE  |   B1/B3/B5/B7   |
-|   TD-LTE  | B38/B39/B40/B41 |
+|   TDD-LTE  | B38/B39/B40/B41 |
 |  TD-SCDMA |     B34/B39     |
 |   WCDMA   |   B1/B2/B5/B8   |
 |    GSM    |   B2/B3/B5/B8   |
@@ -85,7 +85,7 @@
 |  Network  |                          Bands                         |
 |:---------:|:----------------------------------------------------------------:|
 |  FDD-LTE  | B1/B2/B3/B4/B5/B7/B8/B12/B13/B17/B18/B19/B20/B25/B26/B28/B29/B30 |
-|   TD-LTE  |                          B38/B39/B40/B41                         |
+|   TDD-LTE  |                          B38/B39/B40/B41                         |
 |  TD-SCDMA |                              B34/B39                             |
 |   WCDMA   |                          B1/B2/B4/B5/B8                          |
 |    GSM    |                            B2/B3/B5/B8                           |

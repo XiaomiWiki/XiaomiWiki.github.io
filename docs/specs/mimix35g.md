@@ -1,28 +1,28 @@
-## Mi 8 Explorer Edition
+## Mi MIX 3 5G
 
 ### General
 
 * Regional name(s): -
-* Android codename: ursa
-* MIUI codename: MI8Explorer
+* Android codename: ?
+* MIUI codename: ?
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 845 @ 2.8 Ghz
-* Memory: 8GB LPDDR4x
-* Storage: 128GB UFS
+* SoC: Qualcomm Snapdragon 855 @ 2.84 Ghz
+* Memory: 6GB LPDDR4x
+* Storage: 64GB/128GB UFS 2.1
 * MicroSD expansion: No
 
 ### Display
 
 * Panel: AMOLED
-* Size: 6.21 inches
-* Resolution: 2248 x 1080 pixels
-* Pixel density: 402 ppi
-* Aspect ratio: 18.7:9
+* Size: 6.39 inches
+* Resolution: 2340 x 1080 pixels
+* Pixel density: 403 ppi
+* Aspect ratio: 19.5:9
 * Brightness: 600 nits
 * Contrast ratio: 60000:1
-* Colour gamut: DCI-P3
+* Colour gamut: 103.8% NTSC
 
 ### Camera
 
@@ -38,48 +38,57 @@
 
 ---
 
-* Sensor: Samsung S5K3M3
+* Sensor: Samsung S5K3M3+
 * Resolution: 12 megapixels
 * Pixel size: 1.0 µm
-* Aperture: f/2.4
+* Aperture: ?
 * OIS: No
 
 **Video recording**
 
-* Normal: 4K/1080p/720p @ 30 fps
-* High frame rate: 1080p @ 120 fps
-* Slow motion: 1080p/720p @ 240 fps
+* Normal: 4K/1080p/720p @ 60 fps
+* High frame rate: No
+* Slow motion: 1080p/720p @ 960 fps
 
 **Front camera**
 
-* Sensor: Samsung S5K3T1
-* Resolution: 20 megapixels
+* Sensor: Sony IMX576
+* Resolution: 24 megapixels
 * Pixel size: 1.8 µm
 * Aperture: ?
 * OIS: No
 * Autofocus: No
 * Flash: No
 
+---
+
+* Sensor: OmniVision OV02A10
+* Resolution: 2 megapixels
+* Pixel size: 1.75 µm
+* Aperture: ?
+* OIS: No
+
 ### Battery
 
-* Capacity: 3000 mAh
+* Capacity: 3800 mAh
 * Wired charging: Qualcomm Quick Charge 4+ (27W)
 * Wireless charging: No
 
 ### Dimensions
 
-* Size: 154.9 x 74.8 x 7.6 mm
-* Weight: 177 g
+* Size: 157.89 x 74.69 x 9.4 mm
+* Weight: 218 g
 
 ### Connectivity
 
 **Cellular**
 
-* SIM slots: Nano + Nano
+* SIM slots: Nano(?)
 
 | Network | Bands |
-|:---------:|:--------------------------------:|
-| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B17/B20 |
+|:---------:|:----------------------------:|
+| TDD-5G | n78 |
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20/B28 |
 | TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B4/B5/B8 |
@@ -113,8 +122,8 @@
 
 ### Biometrics
 
-* Fingerprint sensor: In-display
-* Facial recognition: 3D camera assisted
+* Fingerprint sensor: Yes
+* Facial recognition: No
 
 ### Sensors
 
@@ -123,6 +132,6 @@
 * Gyroscope: Yes
 * Ambient light: Yes
 * Accelerometer: Yes
-* Barometer: Yes
+* Barometer: No
 * Electronic compass: Yes
-* Hall: Yes
+* Hall: No

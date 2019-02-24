@@ -9,7 +9,7 @@
 ### Hardware
 
 * SoC: Qualcomm Snapdragon 855 @ 2.84 Ghz
-* Memory: 8GB/12GB LPDDR4x @ 2133 Mhz
+* Memory: 6GB/8GB/12GB LPDDR4x @ 2133 Mhz
 * Storage: 128GB/256GB UFS 2.1
 * MicroSD expansion: No
 
@@ -87,10 +87,23 @@
 
 * SIM slots: Nano + Nano
 
+**Chinese Version**
+
 | Network | Bands |
 |:---------:|:----------------------------:|
 | FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B17 |
-| TD-LTE | B34/B38/B39/B40/B41 |
+| TDD-LTE | B34/B38/B39/B40/B41 |
+| TD-SCDMA | B34/B39 |
+| WCDMA | B1/B2/B4/B5/B8 |
+| GSM | B2/B3/B5/B8 |
+| CDMA/EVDO | BC0 |
+
+**Global Version**
+
+| Network | Bands |
+|:---------:|:--------------------------------:|
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B20/B28 |
+| TDD-LTE | B38/B39/B40 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
