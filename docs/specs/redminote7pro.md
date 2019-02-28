@@ -3,7 +3,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: violet
 * MIUI codename: HMNote7Pro
 
 ### Hardware
@@ -28,7 +28,7 @@
 
 **Rear camera**
 
-* Sensor: Samsung S5KGM1
+* Sensor: Sony IMX586
 * Resolution: 48 megapixels
 * Pixel size: 0.8 µm
 * Aperture: f/1.8
