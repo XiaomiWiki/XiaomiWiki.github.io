@@ -75,6 +75,7 @@
 * [Redmi Note 5A Prime](docs/specs/redminote5aprime.md)
 * [Redmi Note 6 Pro](docs/specs/redminote6pro.md)
 * [Redmi Note 7](docs/specs/redminote7.md)
+* [Redmi Note 7 Pro](docs/specs/redminote7pro.md)
 * [Redmi S2](docs/specs/redmis2.md)
 
 ---

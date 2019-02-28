@@ -1,16 +1,16 @@
-## Redmi Note 7
+## Redmi Note 7 Pro
 
 ### General
 
 * Regional name(s): -
-* Android codename: lavender
-* MIUI codename: HMNote7
+* Android codename: ?
+* MIUI codename: HMNote7Pro
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 660 @ 2.2 Ghz
-* Memory: 3GB/4GB/6GB LPDDR4x
-* Storage: 32GB/64GB eMMC 5.1
+* SoC: Qualcomm Snapdragon 675 @ 2.0 Ghz
+* Memory: 4GB/6GB LPDDR4x
+* Storage: 64GB/128GB eMMC 5.1
 * MicroSD expansion: Yes
 
 ### Display
@@ -26,7 +26,7 @@
 
 ### Camera
 
-**Rear camera (Chinese Version)**
+**Rear camera**
 
 * Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
@@ -44,27 +44,9 @@
 * Aperture: ?
 * OIS: No
 
-**Rear camera (Indian Version)**
-
-* Sensor: ?
-* Resolution: 12 megapixels
-* Pixel size: 1.25 µm
-* Aperture: f/2.2
-* OIS: No
-* Autofocus: Contrast
-* Flash: LED
-
----
-
-* Sensor: ?
-* Resolution: 2 megapixels
-* Pixel size: ?
-* Aperture: ?
-* OIS: No
-
 **Video recording**
 
-* Normal: 1080p/720p @ 60 fps
+* Normal: 4K @ 30 fps | 1080p/720p @ 60 fps
 * High frame rate: No
 * Slow motion: 1080p/720p @ 120 fps
 
@@ -94,15 +76,6 @@
 **Cellular**
 
 * SIM slots: Nano + Nano
-
-| Network | Bands |
-|:---------:|:-------------------:|
-| FDD-LTE | B1/B3/B5/B7/B8 |
-| TDD-LTE | B34/B38/B39/B40/B41 |
-| TD-SCDMA | B34/B39 |
-| WCDMA | B1/B2/B5/B8 |
-| GSM | B2/B3/B5/B8 |
-| CDMA/EVDO | BC0 |
 
 **Wi-Fi**
 
