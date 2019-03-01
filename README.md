@@ -4,7 +4,6 @@
 
 * [Tips & tricks](docs/tipsandtricks.md)
 * [Recommended resellers](docs/resellers.md)
-* [Recent Xiaomi devices ranked by LTE coverage](docs/ltecoverage.md)
 * [Regional names of Xiaomi devices](docs/names.md)
 * [Regional versions of Xiaomi devices](docs/versions.md)
 * [List of wired Xiaomi earphones](docs/earphones.md)

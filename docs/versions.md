@@ -8,10 +8,10 @@ Chinese Versions are manufactured and sold in Mainland China, they come in a Chi
 
 **Warning: On Chinese Versions manufactured after May 2018, it's not possible to boot the Global Stable or Developer ROM if the bootloader is locked.**
 
-### Indian Version
-
-Indian versions are manufactured and sold in India, they come in an English box with an IN plug power adapter and the Global Stable ROM pre-installed. Indian Redmi devices support significantly less LTE bands than Chinese Versions, because only a fraction of those bands are used in India. Resellers who are dealing with Indian versions are extremely hard to come by. Indian versions have a red 'Made in India' sticker on the box.
-
 ### Global Version
 
 Global Versions are manufactured in Mainland China and sold in the rest of the market (outside of Mainland China and India). The box's language and the power adapter's plug varies by region, but the phone always comes with the Global Stable ROM pre-installed. Global Redmi devices also support more LTE bands than their Chinese counterparts. Global Versions have a red 'Global Version' sticker on the box and most resellers offer both the Global and Chinese Versions of a phone when they exist.
+
+### Indian Version
+
+Indian versions are manufactured and sold in India, they come in an English box with an IN plug power adapter and the Global Stable ROM pre-installed. Indian Redmi devices support significantly less LTE bands than Chinese Versions, because only a fraction of those bands are used in India. Resellers who are dealing with Indian versions are extremely hard to come by. Indian versions have a red 'Made in India' sticker on the box.
