@@ -12,7 +12,7 @@
 
 ### Flash Recovery ROMs in Recovery mode using XiaomiADB
 
-1. Download and unzip XiaomiADB from [here](tools.md).
+1. Download and unzip XiaomiADB from [here](Tools_for_Xiaomi_devices.md).
 
 2. Download the Recovery ROM you want to flash from [here](http://en.miui.com/download.html).
 
@@ -30,9 +30,9 @@
 
 ### Flash Fastboot ROMs in Fastboot mode using the Xiaomi ADB/Fastboot Tools
 
-**Requirements:** [unlocked bootloader](bootloader.md)
+**Requirements:** [unlocked bootloader](Unlock_the_bootloader.md)
 
-1. Download the Xiaomi ADB/Fastboot Tools from [here](tools.md).
+1. Download the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
 2. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
@@ -50,9 +50,9 @@
 
 ### Flash Fastboot ROMs in Fastboot mode using MiFlash
 
-**Requirements:** [unlocked bootloader](bootloader.md)
+**Requirements:** [unlocked bootloader](Unlock_the_bootloader.md)
 
-1. Download the latest MiFlash from [here](tools.md) and install it.
+1. Download the latest MiFlash from [here](Tools_for_Xiaomi_devices.md) and install it.
 
 2. Download the Fastboot ROM you want to flash from [here](http://en.miui.com/a-234.html) and unzip it.
 
@@ -78,7 +78,7 @@
 
 ### Flash Fastboot ROMs in EDL mode using MiFlash
 
-1. Download the latest MiFlash from [here](tools.md) and install it.
+1. Download the latest MiFlash from [here](Tools_for_Xiaomi_devices.md) and install it.
 
 2. Launch MiFlash, install the necessary drivers by clicking Driver > Install/Reinstall in the top menu then reboot your PC.
 
@@ -86,7 +86,7 @@
 
     **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
 
-4. Connect the device to your PC and enter EDL mode by following the instructions [here](edl.md).
+4. Connect the device to your PC and enter EDL mode by following the instructions [here](Access_EDL_mode.md).
 
 5. Launch MiFlash and browse for the unzipped folder by clicking the Select button. Make sure the file path has no spaces in it! 
 

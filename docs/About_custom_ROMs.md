@@ -2,7 +2,7 @@
 
 ### Reseller/vendor ROMs
 
-Most Xiaomi devices, that are bought from unofficial sources, come with this type of ROM. They support many display languages and come with the Google Play Store, but often also with adware, spyware. These ROMs are unstable and unoptimised, because they are compiled from ROMs of other devices, so some things might not function properly and they might brick the device anytime. As such, **these ROMs are not safe to use** and it is highly recommended that you get rid of one as soon as possible. To do that, [flash your device in Fastboot mode](flashofficial.md).
+Most Xiaomi devices, that are bought from unofficial sources, come with this type of ROM. They support many display languages and come with the Google Play Store, but often also with adware, spyware. These ROMs are unstable and unoptimised, because they are compiled from ROMs of other devices, so some things might not function properly and they might brick the device anytime. As such, **these ROMs are not safe to use** and it is highly recommended that you get rid of one as soon as possible. To do that, [flash your device in Fastboot mode](Flash_official_ROMs.md).
 
 **You have a reseller ROM if the following points apply:**
 

@@ -1,4 +1,4 @@
-## Optimise notifications on MIUI
+## Fix notifications on MIUI
 
 MIUI likes to kill apps that run in the background to save battery life but many users don't like this strategy because this way they miss important notifications. Thankfully it's possible to disable most of these countermeasures.
 

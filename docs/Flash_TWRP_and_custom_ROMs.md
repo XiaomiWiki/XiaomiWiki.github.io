@@ -4,7 +4,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 ### Use TWRP without flashing it
 
-**Requirements:** [unlocked bootloader](bootloader.md)
+**Requirements:** [unlocked bootloader](Unlock_the_bootloader.md)
 
 1. Download and if needed, unzip the image file of the recovery that you want to flash. If a custom ROM requires a specific build of TWRP to be flashed, that is noted by the developer on XDA.
 
@@ -14,7 +14,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
     [Unofficial TWRP builds](https://www.androidfilehost.com/?w=files&flid=50678)
 
-2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
+2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
 3. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
@@ -28,7 +28,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 ### Flash TWRP
 
-**Requirements:** [unlocked bootloader](bootloader.md)
+**Requirements:** [unlocked bootloader](Unlock_the_bootloader.md)
 
 **Note:** These instructions don't apply to Android One devices.
 
@@ -40,7 +40,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
     [Unofficial TWRP builds](https://www.androidfilehost.com/?w=files&flid=50678)
 
-2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](tools.md).
+2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
 3. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
