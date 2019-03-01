@@ -1,4 +1,4 @@
-## Fastboot ROMs & Recovery ROMs explained
+## About Fastboot & Recovery ROMs
 
 The ROM packages you can flash on your device come in two formats: **Fastboot ROMs** and **Recovery ROMs**.
 

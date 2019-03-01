@@ -12,10 +12,10 @@
 
 ---
 
-* [MIUI explained](docs/miui.md)
-* [Custom ROMs explained](docs/custom.md)
-* [Fastboot ROMs & Recovery ROMs explained](docs/fastbootrecovery.md)
-* [Anti-Rollback Protection explained](docs/antirollback.md)
+* [About MIUI](docs/miui.md)
+* [About custom ROMs](docs/custom.md)
+* [About Fastboot & Recovery ROMs](docs/fastbootrecovery.md)
+* [About Anti-Rollback Protection](docs/antirollback.md)
 
 ## Guides
 

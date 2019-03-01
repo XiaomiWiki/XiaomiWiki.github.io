@@ -1,4 +1,4 @@
-## Custom ROMs explained
+## About custom ROMs
 
 ### Reseller/vendor ROMs
 
