@@ -6,7 +6,7 @@ On Xiaomi devices, sensor data is stored in a partition called *persist*. This p
 
 **Requirements:** Qualcomm Snapdragon chipset
 
-1. Download the latest MiFlash from [here](Tools_for_Xiaomi_devices) and install it.
+1. Download the latest MiFlash from [here](Tools_for_Xiaomi_devices.md) and install it.
 
 2. Download the Fastboot ROM you want to flash from [here](http://en.miui.com/a-234.html) and unzip it.
 
@@ -20,7 +20,7 @@ On Xiaomi devices, sensor data is stored in a partition called *persist*. This p
 
 5. Save `rawprogram0.xml` and close the text editor.
 
-6. Connect the device to your PC and [enter EDL mode](Access_EDL_mode).
+6. Connect the device to your PC and [enter EDL mode](Access_EDL_mode.md).
 
 7. Launch MiFlash and with the Select button browse for the unzipped folder, then click Refresh. The device should appear as a COM port.
 
