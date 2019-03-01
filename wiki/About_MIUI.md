@@ -10,7 +10,7 @@ MIUI is Xiaomi's own custom Android interface which runs on most of their device
 
 **[Comparision table on Wikipedia](https://en.wikipedia.org/wiki/MIUI#Comparison_of_all_MIUI_variants)**
 
-### Official MIUI branches
+### Official branches
 
 * **China Stable**
 
