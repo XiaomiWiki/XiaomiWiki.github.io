@@ -12,7 +12,7 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
     **You will only be able to proceed if it's been more than 72 or 360 hours that you successfully added your account and device. The waiting time depends on the phone model, you can check how much time is remaining by attempting to unlock.**
 
-4. Download, extract and run [MiUnlock](Tools_for_Xiaomi_devices.md).
+4. Download, extract and run [MiUnlock](Tools_for_Xiaomi_devices).
 
 5. Log in with your Mi account.
 
@@ -28,7 +28,7 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
 2. Go to Settings > System > Developer options and enable OEM unlocking.
 
-3. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
+3. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices).
 
 4. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 
@@ -38,10 +38,10 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
 ### Locking and re-unlocking the bootloader
 
-To lock the bootloader, the device has to be clean installed in Fastboot mode. For the instructions, see [this page](Flash_official_ROMs.md).
+To lock the bootloader, the device has to be clean installed in Fastboot mode. For the instructions, see [this page](Flash_official_ROMs).
 
 Once a device has been unlocked, it can be locked and re-unlocked using the same account countless of times, anytime, on any official or custom ROM.
 
 ### Troubleshooting
 
-If you keep getting an error message when trying to add your account and device in developer options, move to a Developer ROM. See the instructions [here](Flash_official_ROMs.md).
+If you keep getting an error message when trying to add your account and device in developer options, move to a Developer ROM. See the instructions [here](Flash_official_ROMs).

@@ -4,7 +4,7 @@ By default, MIUI comes with a lot of system apps that replace stock Android's ow
 
 ### Instructions
 
-1. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
+1. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices).
 
 2. Connect the device in ADB mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
 

@@ -4,7 +4,7 @@ Some camera apps on Android, like the modded Google Camera, use Android's [Camer
 
 ### Instructions
 
-**Requirements:** [TWRP](Flash_TWRP_and_custom_ROMs.md)
+**Requirements:** [TWRP](Flash_TWRP_and_custom_ROMs)
 
 1. Enter TWRP.
 
@@ -12,7 +12,7 @@ Some camera apps on Android, like the modded Google Camera, use Android's [Camer
 
 2. Keep the system read only, when asked.
 
-3. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
+3. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices).
 
 4. Connect the device to your computer. The application should detect it automatically.
 

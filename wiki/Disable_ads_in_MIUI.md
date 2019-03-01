@@ -6,7 +6,7 @@ Advertising is an integral part of Xiaomi’s internet services, a key component
 
 1. Uninstall MSA and every factory app you don't need or use.
 
-    Most factory apps cannot be uninstalled directly on the phone but you can use the [Xiaomi ADB/Fastboot Tools](Uninstall_system_apps.md) to remove them.
+    Most factory apps cannot be uninstalled directly on the phone but you can use the [Xiaomi ADB/Fastboot Tools](Uninstall_system_apps) to remove them.
 
 2. Go to the settings of remaining Mi apps and disable recommendations.
 

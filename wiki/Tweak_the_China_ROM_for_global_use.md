@@ -10,7 +10,7 @@ There are a couple of Xiaomi devices that don't have official Global ROMs availa
 
     Alternatively, tap Uninstall on the top, check all the apps and uninstall them.
 
-* You can uninstall most other systems apps using the [Xiaomi ADB/Fastboot Tools](Uninstall_system_apps.md).
+* You can uninstall most other systems apps using the [Xiaomi ADB/Fastboot Tools](Uninstall_system_apps).
 
 ### Install the Google Play Store
 
