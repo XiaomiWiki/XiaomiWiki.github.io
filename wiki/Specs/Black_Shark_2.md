@@ -1,61 +1,61 @@
-## Redmi Note 7 Pro
+## Black Shark 2
 
 ### General
 
 * Regional name(s): -
-* Android codename: violet
-* MIUI codename: HMNote7Pro
+* Android codename: ?
+* MIUI codename: -
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 675 @ 2.0 Ghz
-* Memory: 4GB/6GB LPDDR4x
-* Storage: 64GB/128GB eMMC 5.1
-* MicroSD expansion: Yes
+* SoC: Qualcomm Snapdragon 855 @ 2.84 Ghz
+* Memory: 6GB/8GB/12GB LPDDR4x
+* Storage: 128GB/256GB UFS 2.1
+* MicroSD expansion: No
 
 ### Display
 
-* Panel: IPS LCD
-* Size: 6.3 inches
+* Panel: AMOLED
+* Size: 6.39 inches
 * Resolution: 2340 x 1080 pixels
-* Pixel density: 409 ppi
+* Pixel density: 403 ppi
 * Aspect ratio: 19.5:9
-* Brightness: 450 nits
-* Contrast ratio: 1500:1
-* Colour gamut: 84% NTSC
+* Brightness: 430 nits
+* Contrast ratio: 60000:1
+* Colour gamut: 108.9% DCI-P3
 
 ### Camera
 
 **Rear camera**
 
-* Sensor: Sony IMX586
+* Sensor: ?
 * Resolution: 48 megapixels
 * Pixel size: 0.8 µm
-* Aperture: f/1.8
+* Aperture: f/1.75
 * OIS: No
 * Autofocus: Phase detection
 * Flash: LED
 
 ---
 
-* Sensor: Samsung S5K5E8
-* Resolution: 5 megapixels
-* Pixel size: 1.12 µm
-* Aperture: ?
+* Sensor: ?
+* Resolution: 12 megapixels
+* Pixel size: 1.0 µm
+* Aperture: f/2.2
 * OIS: No
 
 **Video recording**
 
-* Normal: 4K @ 30 fps | 1080p/720p @ 60 fps
+* Normal: 4K/1080p/720p @ 30 fps
 * High frame rate: No
 * Slow motion: 1080p/720p @ 120 fps
 
 **Front camera**
 
-* Sensor: OmniVision OV13855
-* Resolution: 13 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.0
+* Sensor: ?
+* Resolution: 20 megapixels
+* Pixel size: 1.0 µm
+* Aperture: f/2.2
 * OIS: No
 * Autofocus: No
 * Flash: No
@@ -68,8 +68,8 @@
 
 ### Dimensions
 
-* Size: 159.21 x 75.21 x 8.1 mm
-* Weight: 186 g
+* Size: 163.61 x 75.01 x 8.77 mm
+* Weight: 205 g
 
 ### Connectivity
 
@@ -78,8 +78,8 @@
 * SIM slots: Nano + Nano
 
 | Network | Bands |
-|:---------:|:-------------------:|
-| FDD-LTE | B1/B3/B5/B7/B8 |
+|:---------:|:---------------------:|
+| FDD-LTE | B1/B3/B4/B5/B7/B8/B20 |
 | TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B5/B8 |
@@ -90,7 +90,7 @@
 
 * Protocols: 802.11 a/b/g/n/ac
 * Bands: 2.4 Ghz / 5 Ghz
-* MIMO: No
+* MIMO: 2x2 & MU-MIMO
 
 **Bluetooth & NFC**
 
@@ -100,7 +100,7 @@
 **Ports**
 
 * USB: Type-C
-* Headphone jack: Yes
+* Headphone jack: No
 
 ### Navigation
 
@@ -113,16 +113,16 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: In-display
 * Facial recognition: No
 
 ### Sensors
 
-* Infrared: Yes
+* Infrared: No
 * Proximity: Yes
 * Gyroscope: Yes
 * Ambient light: Yes
 * Accelerometer: Yes
-* Barometer: No
+* Barometer: Yes
 * Electronic compass: Yes
 * Hall: No

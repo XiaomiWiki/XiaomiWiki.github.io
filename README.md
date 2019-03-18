@@ -40,6 +40,7 @@
 
 * [Black Shark](wiki/Specs/Black_Shark.md)
 * [Black Shark Helo](wiki/Specs/Black_Shark_Helo.md)
+* [Black Shark 2](wiki/Specs/Black_Shark_2.md)
 * [Mi 6](wiki/Specs/Mi_6.md)
 * [Mi 6X](wiki/Specs/Mi_6X.md)
 * [Mi 8](wiki/Specs/Mi_8.md)
@@ -68,6 +69,7 @@
 * [Redmi 6](wiki/Specs/Redmi_6.md)
 * [Redmi 6 Pro](wiki/Specs/Redmi_6_Pro.md)
 * [Redmi 6A](wiki/Specs/Redmi_6A.md)
+* [Redmi 7](wiki/Specs/Redmi_7.md)
 * [Redmi Go](wiki/Specs/Redmi_Go.md)
 * [Redmi Note 5](wiki/Specs/Redmi_Note_5.md)
 * [Redmi Note 5A](wiki/Specs/Redmi_Note_5A.md)

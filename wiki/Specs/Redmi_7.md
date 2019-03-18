@@ -1,26 +1,26 @@
-## Redmi Note 7 Pro
+## Redmi 7
 
 ### General
 
 * Regional name(s): -
-* Android codename: violet
-* MIUI codename: HMNote7Pro
+* Android codename: ?
+* MIUI codename: HM7
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 675 @ 2.0 Ghz
-* Memory: 4GB/6GB LPDDR4x
-* Storage: 64GB/128GB eMMC 5.1
+* SoC: Qualcomm Snapdragon 632 @ 1.8 Ghz
+* Memory: 2GB/3GB/4GB/6GB
+* Storage: 16GB/32GB/64GB
 * MicroSD expansion: Yes
 
 ### Display
 
 * Panel: IPS LCD
-* Size: 6.3 inches
-* Resolution: 2340 x 1080 pixels
-* Pixel density: 409 ppi
-* Aspect ratio: 19.5:9
-* Brightness: 450 nits
+* Size: 6.26 inches
+* Resolution: 1520 x 720 pixels
+* Pixel density: 269 ppi
+* Aspect ratio: 19:9
+* Brightness: ?
 * Contrast ratio: 1500:1
 * Colour gamut: 84% NTSC
 
@@ -28,34 +28,34 @@
 
 **Rear camera**
 
-* Sensor: Sony IMX586
-* Resolution: 48 megapixels
-* Pixel size: 0.8 µm
-* Aperture: f/1.8
+* Sensor: ?
+* Resolution: 12 megapixels
+* Pixel size: 1.25 µm
+* Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
 * Flash: LED
 
 ---
 
-* Sensor: Samsung S5K5E8
-* Resolution: 5 megapixels
-* Pixel size: 1.12 µm
+* Sensor: ?
+* Resolution: 2 megapixels
+* Pixel size: ?
 * Aperture: ?
 * OIS: No
 
 **Video recording**
 
-* Normal: 4K @ 30 fps | 1080p/720p @ 60 fps
+* Normal: 1080p/720p @ 60 fps
 * High frame rate: No
 * Slow motion: 1080p/720p @ 120 fps
 
 **Front camera**
 
-* Sensor: OmniVision OV13855
-* Resolution: 13 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.0
+* Sensor: ?
+* Resolution: 8 megapixels
+* Pixel size: ?
+* Aperture: ?
 * OIS: No
 * Autofocus: No
 * Flash: No
@@ -63,13 +63,13 @@
 ### Battery
 
 * Capacity: 4000 mAh
-* Wired charging: Qualcomm Quick Charge 4 (27W)
+* Wired charging: 10W
 * Wireless charging: No
 
 ### Dimensions
 
-* Size: 159.21 x 75.21 x 8.1 mm
-* Weight: 186 g
+* Size: 158.73 x 75.58 x 8.47 mm
+* Weight: 180 g
 
 ### Connectivity
 
@@ -88,18 +88,18 @@
 
 **Wi-Fi**
 
-* Protocols: 802.11 a/b/g/n/ac
-* Bands: 2.4 Ghz / 5 Ghz
+* Protocols: 802.11 b/g/n
+* Bands: 2.4 Ghz
 * MIMO: No
 
 **Bluetooth & NFC**
 
-* Bluetooth: 5.0 
+* Bluetooth: 4.2 
 * NFC: No
 
 **Ports**
 
-* USB: Type-C
+* USB: Micro
 * Headphone jack: Yes
 
 ### Navigation
@@ -120,7 +120,7 @@
 
 * Infrared: Yes
 * Proximity: Yes
-* Gyroscope: Yes
+* Gyroscope: No
 * Ambient light: Yes
 * Accelerometer: Yes
 * Barometer: No
