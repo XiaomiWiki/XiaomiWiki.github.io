@@ -12,6 +12,12 @@ By default, MIUI comes with a lot of system apps that replace stock Android's ow
 
     **Note:** The Uninstaller only lists apps which aren't necessary for basic functionality, so removing them won't break the device.
 
-    The process may take up to 60 seconds.
-
 4. Afterwards, reboot the device to finalise the changes by clicking Reboot device to System in the top menu.
+
+### Reinstall previously uninstalled apps
+
+1. Launch the Xiaomi ADB/Fastboot Tools and connect the device in ADB mode.
+
+2. On the ADB tab, in the Reinstaller module, select all the apps and services you wish to reinstall and click Reinstall!
+
+3. Afterwards, reboot the device to finalise the changes by clicking Reboot device to System in the top menu.
