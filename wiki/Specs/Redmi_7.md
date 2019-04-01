@@ -3,7 +3,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: onclite
 * MIUI codename: HM7
 
 ### Hardware
