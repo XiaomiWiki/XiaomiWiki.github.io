@@ -1,4 +1,4 @@
-[Index page](../../)
+[Index page](../)
 
 ## About Anti-Rollback Protection
 
