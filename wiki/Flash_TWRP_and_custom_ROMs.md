@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Flash TWRP & custom ROMs
 
 TWRP is a custom recovery that replaces MiRecovery / the splash screen for the Mi PC Suite. A custom recovery mode gives the user more options to manage the device's system, more options to flash ROMs, wipe, or back up. A custom recovery, such as TWRP, is needed to flash ROMs, kernels, etc. or root.

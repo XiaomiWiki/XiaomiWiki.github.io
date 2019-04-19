@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Verify the authenticity of Xiaomi products
 
 ### Phones

@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Redmi Go
 
 ### General

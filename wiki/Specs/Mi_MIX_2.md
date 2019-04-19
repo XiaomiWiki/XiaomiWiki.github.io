@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Mi MIX 2
 
 ### General

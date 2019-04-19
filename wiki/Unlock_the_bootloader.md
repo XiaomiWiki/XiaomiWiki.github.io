@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Unlock the bootloader
 
 Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootloaders. As such, recent devices come with locked bootloaders out of the box. A locked bootloader prevents the user from flashing things in fastboot mode, including flashing custom recovery modes and custom ROMs. Fastboot mode **is** the bootloader, so if it is locked, changes to the device cannot be made in this mode.

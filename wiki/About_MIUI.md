@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## About MIUI
 
 ### What is MIUI?

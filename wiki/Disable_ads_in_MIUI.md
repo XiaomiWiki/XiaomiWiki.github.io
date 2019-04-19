@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Disable ads in MIUI
 
 Advertising is an integral part of Xiaomi’s internet services, a key component in their business model and one of their sources of income. As such, MIUI and Mi apps contain ads by default which may appear in places where you wouldn't expect to see them, like in Settings. Thankfully, there are ways to get rid of them.

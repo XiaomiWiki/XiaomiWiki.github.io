@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Tweak the China ROM for global use
 
 There are a couple of Xiaomi devices that don't have official Global ROMs available. The best solution for these devices is installing the Xiaomi.eu ROM which is a debloated and optimised China ROM with Google Play, suitable for Western use. However, since it's a custom ROM, installing it requires an unlocked bootloader and TWRP. Unlocking the bootloader and flashing TWRP might be lengthy and annoying, so it's understandable if someone wants to keep using their device on the China ROM temporarily, or all the time because they aren't interested in flashing custom ROMs. Thankfully there are several ways to make the China ROM more pleasant to use for global users.

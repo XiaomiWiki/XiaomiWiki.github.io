@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Tips & tricks
 
 ### Before purchasing

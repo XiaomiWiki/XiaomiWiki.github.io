@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Redmi S2
 
 ### General

@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Enable Camera2
 
 Some camera apps on Android, like the modded Google Camera, use Android's [Camera2 API](https://developer.android.com/reference/android/hardware/camera2/package-summary) but it's disabled on Xiaomi devices by default (with the exception of the Mi 5s). If Camera2 is disabled, such apps (like GCam) don't work and crash on launch. Thankfully, TWRP lets you modify build.prop in ADB mode and thus enable Camera2.

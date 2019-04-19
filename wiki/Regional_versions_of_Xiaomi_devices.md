@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Regional versions of Xiaomi devices
 
 Xiaomi devices, which are officially sold outside of Mainland China, usually come in three versions. Versions of Redmi devices differ in LTE band support and packaging, while the versions of Mi devices are identical in hardware and only come in a different box. Some Xiaomi devices only have Chinese Versions while Android One models aren't sold in Mainland China at all.

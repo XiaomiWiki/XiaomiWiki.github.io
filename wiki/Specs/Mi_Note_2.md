@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Mi Note 2
 
 ### General

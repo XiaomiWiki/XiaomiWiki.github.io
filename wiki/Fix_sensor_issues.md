@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Fix sensor issues
 
 On Xiaomi devices, sensor data is stored in a partition called *persist*. This partition is flashable and an image of it is included with all fastboot ROMs but devices made after 2016 don't allow you to modify it in fastboot mode, regardless of the status of the bootloader. Unfortunately, software issues may cause the sensors in the device to misbehave or stop working completely, but usually reflashing this partition solves these problems. If the partition is write protected in fastboot mode, you'll have to use Qualcomm's EDL mode to flash it. The EDL flashing script originally skips the persist partition but you can modify it to flash that as well when you are flashing with MiFlash.

@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Mi Max 3
 
 ### General

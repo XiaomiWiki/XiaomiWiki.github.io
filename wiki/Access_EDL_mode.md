@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Access EDL mode
 
 EDL (Emergency Download) mode is used in Qualcomm-based devices for unbricking/flashing purposes. EDL mode bypasses the bootloader and MiFlash can interact with it. There are several ways to access EDL mode but they usually require the bootloader to be unlocked.

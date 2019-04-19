@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Redmi Note 6 Pro
 
 ### General

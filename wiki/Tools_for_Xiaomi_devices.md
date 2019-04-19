@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Tools for Xiaomi devices
 
 ### MiFlash by Xiaomi

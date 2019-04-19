@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Mi 6X
 
 ### General

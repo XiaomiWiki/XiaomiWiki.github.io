@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## Regional names of Xiaomi devices
 
 **Models that don't have regional names are not included.**

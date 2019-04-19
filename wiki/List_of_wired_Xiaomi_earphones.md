@@ -1,3 +1,5 @@
+[Index page](../)
+
 ## List of wired Xiaomi earphones
 
 | English name | Chinese name | Aliases | Release date | MSRP |

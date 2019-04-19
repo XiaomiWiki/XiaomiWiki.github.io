@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Mi 8 Explorer Edition
 
 ### General

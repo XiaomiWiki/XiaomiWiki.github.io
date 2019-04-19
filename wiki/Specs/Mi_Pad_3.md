@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## Mi Pad 3
 
 ### General
