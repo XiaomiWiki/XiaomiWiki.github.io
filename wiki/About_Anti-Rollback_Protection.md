@@ -1,3 +1,5 @@
+[Index page](../../)
+
 ## About Anti-Rollback Protection
 
 Anti-Rollback Protection (ARP) was introduced by Google in Android 8.0 (Oreo) and they made its implementation mandatory for devices launching with Android 9.0 Pie. ARP is a security countermeasure aiming to prevent devices from booting older, less-secure versions of Android. In Google's implementation, ARP is disabled if the bootloader is unlocked, whereas on Xiaomi devices it cannot be disabled once it's enabled by a ROM that implements it. Xiaomi likely made this decision to stop resellers from exploiting vulnerabilities found in older versions of MIUI.

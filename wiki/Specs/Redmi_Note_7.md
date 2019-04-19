@@ -109,10 +109,10 @@
 **Global Version**
 
 | Network | Bands |
-|:-------:|:---------------------:|
-| FDD-LTE | B1/B3/B5/B7/B8/B20 |
-| TDD-LTE | B38/B40/B41 |
-| WCDMA | B1/B2/B5/B8 |
+|:---------:|:--------------------------------:|
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20/B28 |
+| TDD-LTE | B38/B40 |
+| WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
 
 **Wi-Fi**
