@@ -78,6 +78,7 @@
 * [Redmi Note 7](wiki/Specs/Redmi_Note_7.md)
 * [Redmi Note 7 Pro](wiki/Specs/Redmi_Note_7_Pro.md)
 * [Redmi S2](wiki/Specs/Redmi_S2.md)
+* [Redmi Y3](wiki/Specs/Redmi_Y3.md)
 
 ---
 
