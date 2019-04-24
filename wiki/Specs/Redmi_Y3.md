@@ -1,18 +1,18 @@
 [Index page](../../)
 
-## Redmi 7
+## Redmi Y3
 
 ### General
 
 * Regional name(s): -
-* Android codename: onclite
-* MIUI codename: HM7
+* Android codename: ?
+* MIUI codename: ?
 
 ### Hardware
 
 * SoC: Qualcomm Snapdragon 632 @ 1.8 Ghz
-* Memory: 2GB/3GB/4GB LPDDR3 @ 933 MHz
-* Storage: 16GB/32GB/64GB eMMC 5.1
+* Memory: 3GB/4GB LPDDR3 @ 933 MHz
+* Storage: 32GB/64GB eMMC 5.1
 * MicroSD expansion: Yes
 
 ### Display
@@ -55,9 +55,9 @@
 **Front camera**
 
 * Sensor: ?
-* Resolution: 8 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.0
+* Resolution: 32 megapixels
+* Pixel size: 0.8 µm
+* Aperture: f/2.25
 * OIS: No
 * Autofocus: No
 * Flash: No
@@ -78,19 +78,6 @@
 **Cellular**
 
 * SIM slots: Nano + Nano
-
-**Chinese Version**
-
-| Network | Bands |
-|:---------:|:-------------------:|
-| FDD-LTE | B1/B3/B5/B7/B8 |
-| TDD-LTE | B34/B38/B39/B40/B41 |
-| TD-SCDMA | B34/B39 |
-| WCDMA | B1/B2/B5/B8 |
-| GSM | B2/B3/B5/B8 |
-| CDMA/EVDO | BC0 |
-
-**Global Version**
 
 | Network | Bands |
 |:---------:|:--------------------------------:|
