@@ -43,7 +43,7 @@
 * Sensor: Samsung S5K5E8
 * Resolution: 5 megapixels
 * Pixel size: 1.12 µm
-* Aperture: ?
+* Aperture: f/2.2
 * OIS: No
 
 **Video recording**

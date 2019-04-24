@@ -12,7 +12,7 @@
 
 * SoC: Qualcomm Snapdragon 660 @ 2.2 Ghz
 * Memory: 3GB/4GB/6GB LPDDR4x
-* Storage: 32GB/64GB eMMC 5.1
+* Storage: 32GB/64GB/128GB eMMC 5.1
 * MicroSD expansion: Yes
 
 ### Display
@@ -28,7 +28,7 @@
 
 ### Camera
 
-**Rear camera (Chinese Version)**
+**Rear camera (Chinese/Global Version)**
 
 * Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
@@ -125,7 +125,7 @@
 
 **Bluetooth & NFC**
 
-* Bluetooth: 5.0 
+* Bluetooth: 5.0
 * NFC: No
 
 **Ports**

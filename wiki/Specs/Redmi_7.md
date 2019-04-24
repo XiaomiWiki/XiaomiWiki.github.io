@@ -107,7 +107,7 @@
 
 **Bluetooth & NFC**
 
-* Bluetooth: 4.2 
+* Bluetooth: 4.2
 * NFC: No
 
 **Ports**

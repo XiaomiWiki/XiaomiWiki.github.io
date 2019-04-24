@@ -65,7 +65,7 @@
 ### Battery
 
 * Capacity: 4000 mAh
-* Wired charging: Qualcomm Quick Charge 4+ (27W)
+* Wired charging: Qualcomm Quick Charge 3.0 (18W)
 * Wireless charging: No
 
 ### Dimensions
@@ -97,11 +97,11 @@
 
 * Protocols: 802.11 a/b/g/n/ac
 * Bands: 2.4 Ghz / 5 Ghz
-* MIMO: 2x2 & MU-MIMO
+* MIMO: 2x2 / MU-MIMO
 
 **Bluetooth & NFC**
 
-* Bluetooth: 5.0 
+* Bluetooth: 5.0
 * NFC: No
 
 **Ports**

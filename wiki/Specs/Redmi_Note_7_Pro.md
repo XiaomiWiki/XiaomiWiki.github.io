@@ -48,7 +48,7 @@
 
 **Video recording**
 
-* Normal: 4K @ 30 fps | 1080p/720p @ 60 fps
+* Normal: 4K @ 30 fps / 1080p/720p @ 60 fps
 * High frame rate: No
 * Slow motion: 1080p/720p @ 120 fps
 
@@ -96,7 +96,7 @@
 
 **Bluetooth & NFC**
 
-* Bluetooth: 5.0 
+* Bluetooth: 5.0
 * NFC: No
 
 **Ports**
