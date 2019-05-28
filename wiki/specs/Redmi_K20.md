@@ -5,7 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: davinci
 * MIUI codename: ?
 
 ### Hardware
