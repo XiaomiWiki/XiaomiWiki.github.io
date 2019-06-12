@@ -78,7 +78,7 @@
 * [Redmi Note 5A](wiki/specs/Redmi_Note_5A.md)
 * [Redmi Note 5A Prime](wiki/specs/Redmi_Note_5A_Prime.md)
 * [Redmi Note 6 Pro](wiki/specs/Redmi_Note_6_Pro.md)
-* [Redmi Note 7](wiki/specs/Redmi_Note_7.md)
+* [Redmi Note 7 / 7S](wiki/specs/Redmi_Note_7.md)
 * [Redmi Note 7 Pro](wiki/specs/Redmi_Note_7_Pro.md)
 * [Redmi S2](wiki/specs/Redmi_S2.md)
 * [Redmi Y3](wiki/specs/Redmi_Y3.md)

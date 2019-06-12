@@ -1,6 +1,6 @@
 [Index page](../../)
 
-## Redmi Note 7
+## Redmi Note 7 / 7S
 
 ### General
 
@@ -28,7 +28,7 @@
 
 ### Camera
 
-**Rear camera (Chinese/Global Version)**
+**Rear camera (RN7 Chinese/Global Version / RN7S)**
 
 * Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
@@ -46,7 +46,7 @@
 * Aperture: ?
 * OIS: No
 
-**Rear camera (Indian Version)**
+**Rear camera (RN7 Indian Version)**
 
 * Sensor: ?
 * Resolution: 12 megapixels
