@@ -1,10 +1,10 @@
 [Index page](../../)
 
-## Redmi Note 7 / 7S
+## Redmi Note 7
 
 ### General
 
-* Regional name(s): -
+* Regional name(s): Redmi Note 7S (India)
 * Android codename: lavender
 * MIUI codename: HMNote7
 
@@ -28,7 +28,7 @@
 
 ### Camera
 
-**Rear camera (RN7 Chinese/Global Version / RN7S)**
+**Rear camera ( RN7 Chinese / Global Version / RN7S )**
 
 * Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
@@ -46,7 +46,7 @@
 * Aperture: ?
 * OIS: No
 
-**Rear camera (RN7 Indian Version)**
+**Rear camera (RN7 Indian Version [Not to be confused with the RN7S])**
 
 * Sensor: ?
 * Resolution: 12 megapixels
