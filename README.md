@@ -72,7 +72,7 @@
 * [Redmi 7](wiki/specs/Redmi_7.md)
 * [Redmi 7A](wiki/specs/Redmi_7A.md)
 * [Redmi Go](wiki/specs/Redmi_Go.md)
-* [Redmi K20](wiki/specs/Redmi_K20.md)
+* [Redmi K20 / Mi 9T](wiki/specs/Redmi_K20.md)
 * [Redmi K20 Pro](wiki/specs/Redmi_K20_Pro.md)
 * [Redmi Note 5](wiki/specs/Redmi_Note_5.md)
 * [Redmi Note 5A](wiki/specs/Redmi_Note_5A.md)

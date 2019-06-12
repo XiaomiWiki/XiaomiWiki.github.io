@@ -4,17 +4,18 @@
 
 **Models that don't have regional names are not included.**
 
-| Codename | Greater China | India | Rest of the market | Also known as |
-|:---------:|:-------------------:|:----------------:|:-------------------:|:---------------------:|
-| beryllium | - | POCO F1 | POCOPHONE F1 | - |
-| nikel | Redmi Note 4 | - | - | Redmi Note 4 MTK |
-| mido | Redmi Note 4X | Redmi Note 4 | Redmi Note 4 | Redmi Note 4 Qualcomm |
-| santoni | Redmi 4X | Redmi 4 | Redmi 4X | - |
-| ugglite | Redmi Note 5A | Redmi Y1 Lite | Redmi Note 5A | - |
-| ugg | Redmi Note 5A Prime | Redmi Y1 | Redmi Note 5A Prime | - |
-| vince | Redmi 5 Plus | Redmi Note 5 | Redmi 5 Plus | - |
-| whyred | Redmi Note 5 | Redmi Note 5 Pro | Redmi Note 5 | - |
-| ysl | Redmi S2 | Redmi Y2 | Redmi S2 | - |
+| Codename | Mainland China | HK/Taiwan | India | Rest of the world | Also known as |
+|:---------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:---------------------:|
+| beryllium | - | POCOPHONE F1 | POCO F1 | POCOPHONE F1 | - |
+| davinci | Redmi K20 | Mi 9T | Redmi K20 | Mi 9T |  |
+| nikel | Redmi Note 4 | Redmi Note 4 | - | - | Redmi Note 4 MTK |
+| mido | Redmi Note 4X | Redmi Note 4X | Redmi Note 4 | Redmi Note 4 | Redmi Note 4 Qualcomm |
+| santoni | Redmi 4X | Redmi 4X | Redmi 4 | Redmi 4X | - |
+| ugglite | Redmi Note 5A | Redmi Note 5A | Redmi Y1 Lite | Redmi Note 5A | - |
+| ugg | Redmi Note 5A Prime | Redmi Note 5A Prime | Redmi Y1 | Redmi Note 5A Prime | - |
+| vince | Redmi 5 Plus | Redmi 5 Plus | Redmi Note 5 | Redmi 5 Plus | - |
+| whyred | Redmi Note 5 | Redmi Note 5 | Redmi Note 5 Pro | Redmi Note 5 | - |
+| ysl | Redmi S2 | Redmi S2 | Redmi Y2 | Redmi S2 | - |
 
 **Additional notes:**
 
