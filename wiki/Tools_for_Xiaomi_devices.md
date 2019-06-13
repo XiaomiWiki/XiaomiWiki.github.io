@@ -23,6 +23,26 @@
 
 [Download (2016.04.01)](https://drive.google.com/open?id=0B9wtW2KGOf0RaERVZXFtaGxfZ2s)
 
+### MiFlash Pro by Xiaomi
+
+**Supported platforms:** Windows
+
+**Features:**
+
+* Download any device ROMs
+* Flash device in recovery mode
+* Flash Fastboot ROM packages in Fastboot mode
+
+[Download (miflash_pro_en_3.3.1212.88)](https://drive.google.com/file/d/15eSeySg4JPtO6FAbf8q7PSM67tEHb9Ht/view) - [Alternative](https://drive.google.com/uc?id=11QZjsGD72YTHiGTMqMAwmNVMMrhJ-eP3&export=download)
+
+**Older versions in case the latest one doesn't work:**
+
+[Download (miflash_pro-en-3.3.1112.82)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.3.1112.82/miflash_pro-en-3.3.1112.82.zip)
+
+[Download (miflash_pro-en-3.3.703.67)](https://mega.nz/#!zoIizCQJ!ojy5kaeV4JkEYOXyrNGABTPDbEwCWme6YSf8I9bCPuY)
+
+[Download (miflash_pro-3.3.518.58)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u265827351/3.3.518.58/miflash_pro-3.3.518.58.zip)
+
 ### MiUnlock by Xiaomi
 
 **Supported platforms:** Windows
