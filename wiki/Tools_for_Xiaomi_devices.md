@@ -55,6 +55,21 @@
 
 [Download](http://en.miui.com/unlock/download_en.html)
 
+### XiaomiTool V2 by Francesco Tescari
+
+[Official website](https://www.xiaomitool.com/V2/)
+
+**Supported platforms:** Windows/Mac/Linux
+
+**Features:**
+
+* Download Fastboot and Recovery ROM packages
+* Built in bootloader unlock tool
+* Autonomous decision of ROMs installation type
+* Autonomous processing of device managment
+
+[Download](https://www.xiaomitool.com/V2/latest)
+
 ### XiaomiADB by Francesco Tescari
 
 [Official website](http://www.xiaomitool.com/adb)
