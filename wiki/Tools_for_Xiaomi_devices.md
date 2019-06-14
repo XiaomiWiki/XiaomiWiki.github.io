@@ -64,9 +64,8 @@
 **Features:**
 
 * Download Fastboot and Recovery ROM packages
-* Built in bootloader unlock tool
-* Autonomous decision of ROMs installation type
-* Autonomous processing of device managment
+* Unlock the bootloader of any Xiaomi device
+* Automatic ROM installation method selection
 
 [Download](https://www.xiaomitool.com/V2/latest)
 
