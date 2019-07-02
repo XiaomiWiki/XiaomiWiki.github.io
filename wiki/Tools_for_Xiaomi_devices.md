@@ -100,11 +100,11 @@
 
 **Features:**
 
-* Debloat any Xiaomi device, uninstall any system app you want
+* Debloat any Xiaomi device, uninstall/disable/reinstall/enable any system app you want
 * Enable camera2 or EIS (TWRP required)
 * Transfer files between a device and a computer
 * Get detailed information about any Xiaomi device
-* Change the screen density (DPI)
+* Change the screen density (DPI) or resolution
 * Flash any partition with an image file
 * Boot to any image file
 * Flash a Fastboot ROM package in Fastboot mode
