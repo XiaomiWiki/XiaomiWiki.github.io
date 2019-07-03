@@ -1,11 +1,11 @@
 [Index page](../../)
 
-## Mi CC9
+## Mi CC9e
 
 ### General
 
 * Regional name(s): -
-* Android codename: ?
+* Android codename: laurus
 * MIUI codename: ?
 
 ### Hardware
