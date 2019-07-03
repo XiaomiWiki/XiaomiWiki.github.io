@@ -5,7 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: pyxis - vela
+* Android codename: pyxis / vela (Meitu Edition)
 * MIUI codename: ?
 
 ### Hardware
