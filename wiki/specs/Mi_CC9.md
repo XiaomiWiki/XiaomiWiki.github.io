@@ -1,6 +1,6 @@
 [Index page](../../)
 
-## Mi CC9
+## Mi A3
 
 ### General
 
