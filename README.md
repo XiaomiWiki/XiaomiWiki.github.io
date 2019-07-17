@@ -53,6 +53,7 @@
 * [Mi A1](wiki/specs/Mi_A1.md)
 * [Mi A2](wiki/specs/Mi_A2.md)
 * [Mi A2 Lite](wiki/specs/Mi_A2_Lite.md)
+* [Mi A3](wiki/specs/Mi_A3.md)
 * [Mi CC9](wiki/specs/Mi_CC9.md)
 * [Mi CC9e](wiki/specs/Mi_CC9e.md)
 * [Mi MIX 2](wiki/specs/Mi_MIX_2.md)

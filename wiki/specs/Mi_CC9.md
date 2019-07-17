@@ -30,7 +30,7 @@
 * Size: 6.39 inches
 * Resolution: 2340 x 1080 pixels
 * Pixel density: 403 ppi
-* Aspect ratio: ?
+* Aspect ratio: 19.5:9
 * Brightness: 600 nits
 * Contrast ratio: 60000:1
 * Colour gamut: 103.8% NTSC
@@ -73,7 +73,7 @@
 
 * Sensor: ?
 * Resolution: 32 megapixels
-* Pixel size: 1.6 µm
+* Pixel size: 0.8 µm
 * Aperture: f/2.0
 * OIS: No
 * Autofocus: No

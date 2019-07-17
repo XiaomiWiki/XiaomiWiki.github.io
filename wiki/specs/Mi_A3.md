@@ -5,13 +5,13 @@
 ### General
 
 * Regional name(s): -
-* Android codename: laurus
-* MIUI codename: ?
+* Android codename: ?
+* MIUI codename: -
 
 ### Hardware
 
 * SoC: Qualcomm Snapdragon 665 @ 2.0 GHz
-* Memory: 4GB / 6GB LPDDR4x @ 1866 MHz
+* Memory: 4GB LPDDR4x @ 1866 MHz
 * Storage: 64GB / 128GB UFS 2.1
 * MicroSD expansion: Yes
 
@@ -35,7 +35,7 @@
 * Pixel size: 0.8 µm
 * Aperture: f/1.79
 * OIS: No
-* Autofocus: Yes
+* Autofocus: Phase detection
 * Flash: LED
 
 ---
@@ -88,13 +88,11 @@
 * SIM slots: Nano + Nano
 
 | Network | Bands |
-|:---------:|:-------------------:|
-| FDD-LTE | B1/B3/B5/B8 |
-| TDD-LTE | B34/B38/B39/B40/B41 |
-| TD-SCDMA | B34/B39 |
-| WCDMA | B1/B5/B8 |
+|:-------:|:----------------------------:|
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20/B28 |
+| TDD-LTE | B38/B40 |
+| WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
-| CDMA/EVDO | BC0 |
 
 **Wi-Fi**
 
