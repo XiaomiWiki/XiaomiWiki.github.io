@@ -22,4 +22,4 @@ Some camera apps on Android, like the modded Google Camera, use Android's [Camer
 
 6. If successful, reboot the device by clicking Reboot device to System in the top menu.
 
-    After successfully enabling Camera2, you can install a Google Camera port from [here](https://www.celsoazevedo.com/files/android/google-camera/). Be advised, however, that different versions work on different models and different ROMs so there's no universal option.
+    After successfully enabling Camera2, you can install a Google Camera port from [here](https://www.celsoazevedo.com/files/android/google-camera/). Be advised, however, that different versions work on different models and different ROMs so there's no universal option, but you can find recommendations for a variety of devices [here](https://www.xda-developers.com/google-camera-port-hub/).
