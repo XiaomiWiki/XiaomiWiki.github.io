@@ -5,7 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: daisy
+* Android codename: daisy / daisy_sprout
 * MIUI codename: -
 
 ### Hardware

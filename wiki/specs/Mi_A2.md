@@ -5,7 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: jasmine
+* Android codename: jasmine / jasmine_sprout
 * MIUI codename: -
 
 ### Hardware
