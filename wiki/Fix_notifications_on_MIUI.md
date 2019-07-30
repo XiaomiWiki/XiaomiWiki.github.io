@@ -6,10 +6,10 @@ MIUI likes to kill apps that run in the background to save battery life but many
 
 ### Instructions
 
-* Go to Settings > Battery > Battery saver > Choose apps and tap on the three dots in the top-right corner then select Turn off battery saver.
+* Go to Settings > Battery & performance > Choose apps and set "No restrictions" for all your important apps.
 
-* Go to Settings > Battery > Smart scenes > Scenes and turn off the strategies here.
+* Go to Settings > Battery & performance > Scenes and disable all strategies here.
   
-* Go to Settings > Permissions > Autostart and enable autostart for the apps you want to receive notifications from.  
+* Go to Settings > Permissions > Autostart and enable autostart for the apps you'd like to receive notifications from.  
   
-* Go to Settings > Notifications & status bar > App notifications and tweak the notification settings for the apps the way you want.
+* Go to Settings > Notifications & status bar > App notifications and tweak the notification settings for each app.
