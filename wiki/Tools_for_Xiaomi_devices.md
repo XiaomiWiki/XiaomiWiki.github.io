@@ -35,7 +35,9 @@
 * Flash device in recovery mode
 * Flash Fastboot ROM packages in Fastboot mode
 
-[Download (3.3.1212.88)](https://drive.google.com/file/d/15eSeySg4JPtO6FAbf8q7PSM67tEHb9Ht/view) - [Mirror](https://drive.google.com/uc?id=11QZjsGD72YTHiGTMqMAwmNVMMrhJ-eP3&export=download)
+[Download (3.3.1212.88)](https://drive.google.com/file/d/15eSeySg4JPtO6FAbf8q7PSM67tEHb9Ht/view)
+
+[Mirror](https://drive.google.com/uc?id=11QZjsGD72YTHiGTMqMAwmNVMMrhJ-eP3&export=download)
 
 **Older versions in case the latest one doesn't work:**
 
@@ -65,7 +67,7 @@
 
 * Download Fastboot and Recovery ROM packages
 * Unlock the bootloader of any Xiaomi device
-* Automatic ROM installation method selection
+* Automatic ROM installation
 
 [Download](https://www.xiaomitool.com/V2/latest)
 
