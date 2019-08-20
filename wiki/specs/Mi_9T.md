@@ -1,6 +1,6 @@
 [Index page](../../)
 
-## Redmi K20 / Mi 9T
+## Mi 9T / Redmi K20
 
 ### General
 

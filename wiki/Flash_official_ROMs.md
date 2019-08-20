@@ -4,7 +4,7 @@
 
 ### Flash Recovery ROMs in MIUI
 
-1. Download the Recovery ROM you want to flash from [here](http://en.miui.com/download.html).
+1. Download the Recovery ROM you want to flash from [here](https://c.mi.com/global/miuidownload/index).
 
 2. Use the device to download the ROM or connect it to your PC, enable MTP mode and transfer the downloaded ZIP to it.
 
@@ -16,7 +16,7 @@
 
 1. Download and unzip XiaomiADB from [here](Tools_for_Xiaomi_devices.md).
 
-2. Download the Recovery ROM you want to flash from [here](http://en.miui.com/download.html).
+2. Download the Recovery ROM you want to flash from [here](https://c.mi.com/global/miuidownload/index).
 
 3. Enter MiRecovery by holding power and volume up simultaneously for 5-10 seconds, then select the third option (Connect with MiAssistant / 连接小米助手).
 

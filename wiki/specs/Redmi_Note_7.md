@@ -28,7 +28,7 @@
 
 ### Camera
 
-**Rear camera (RN7 Chinese/Global Version / RN7S)**
+**Rear camera (Note 7 Chinese Version / Note 7 Global Version / Note 7S)**
 
 * Sensor: Samsung S5KGM1
 * Resolution: 48 megapixels
@@ -46,7 +46,7 @@
 * Aperture: ?
 * OIS: No
 
-**Rear camera (RN7 Indian Version)**
+**Rear camera (Note 7 Indian Version)**
 
 * Sensor: ?
 * Resolution: 12 megapixels

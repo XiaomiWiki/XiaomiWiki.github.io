@@ -10,13 +10,11 @@ Most Xiaomi devices, that are bought from unofficial sources, come with this typ
 
 * The ROM has many European display languages available
 * The ROM has Google apps pre-installed
-* The letter code of the MIUI version has 'CN' or 'CL' in it **OR** the MIUI version number and letter code cannot be found on the [official download site](http://en.miui.com/download.html)
+* The letter code of the MIUI version has 'CN' or 'CL' in it **OR** the MIUI version number and letter code cannot be found on the [official download site](https://c.mi.com/global/miuidownload/index)
 
 **When you update a reseller ROM to an official ROM, the following text may appear on the top of your screen:**
 
 > Looks like the ROM installed on your device is unofficial. Contact your distributor to get help.
-
-[The official forum's guide on identifying reseller ROMs](http://en.miui.com/thread-392159-1-1.html)
 
 ### [Xiaomi.eu](https://xiaomi.eu/)
 

@@ -7,7 +7,8 @@
 | Codename | Mainland China | HK/Taiwan | India | Rest of the world | Also known as |
 |:---------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:---------------------:|
 | beryllium | - | POCOPHONE F1 | POCO F1 | POCOPHONE F1 | - |
-| davinci | Redmi K20 | Mi 9T | Redmi K20 | Mi 9T |  |
+| davinci | Redmi K20 | Mi 9T | Redmi K20 | Mi 9T | - |
+| raphael | Redmi K20 Pro | Mi 9T Pro | Redmi K20 Pro | Mi 9T Pro | - |
 | nikel | Redmi Note 4 | Redmi Note 4 | - | - | Redmi Note 4 MTK |
 | mido | Redmi Note 4X | Redmi Note 4X | Redmi Note 4 | Redmi Note 4 | Redmi Note 4 Qualcomm |
 | santoni | Redmi 4X | Redmi 4X | Redmi 4 | Redmi 4X | - |

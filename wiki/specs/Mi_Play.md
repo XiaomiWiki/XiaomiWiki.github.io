@@ -5,8 +5,8 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
-* MIUI codename: lotus
+* Android codename: lotus
+* MIUI codename: MIPLAY
 
 ### Hardware
 

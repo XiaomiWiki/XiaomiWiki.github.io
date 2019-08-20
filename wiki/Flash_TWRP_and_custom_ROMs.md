@@ -10,7 +10,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 1. Download and if needed, unzip the image file of the recovery that you want to flash. If a custom ROM requires a specific build of TWRP to be flashed, that is noted by the developer on XDA.
 
-    Devices are referred to by their codenames, if you don't know the codename of the device, see [this](https://i.imgur.com/Xsx69Qo.png).
+    Devices are referred to by their codenames, if you don't know the codename of the device, see [this](https://i.imgur.com/iZoFg2t.png).
 
     [Official TWRP builds](https://twrp.me/Devices/)
 
@@ -36,7 +36,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 1. Download and if needed, unzip the image file of the recovery that you want to flash. If a custom ROM requires a specific build of TWRP to be flashed, that is noted by the developer on XDA.
 
-    Devices are referred to by their codenames, if you don't know the codename of the device, see [this](https://i.imgur.com/Xsx69Qo.png).
+    Devices are referred to by their codenames, if you don't know the codename of the device, see [this](https://i.imgur.com/iZoFg2t.png).
 
     [Official TWRP builds](https://twrp.me/Devices/)
 

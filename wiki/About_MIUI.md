@@ -28,7 +28,7 @@ It's the same as the China Stable ROM, but it's getting updated on a weekly basi
 
 * **Global Stable**
 
-[Download](http://en.miui.com/download.html)
+[Download](https://c.mi.com/global/miuidownload/index)
 
 All Xiaomi devices that aren't bought in Mainland China come with this type of ROM out of the box. It supports a lot of languages and has Google services and Google apps pre-installed, no Chinese apps here.
 
@@ -36,7 +36,7 @@ Global Stable ROMs pass SafetyNet and get Google Play Certification on a locked 
 
 * **Global Developer/Beta**
 
-[Download](http://en.miui.com/download.html)
+[Download](https://c.mi.com/global/miuidownload/index)
 
 It's the same as the Global Stable ROM, but it's getting updated on a weekly basis and has the latest new features and updates of MIUI. Despite being called Developer/Beta, it's absolutely stable, suitable for daily use.
 
@@ -44,12 +44,12 @@ Global Developer ROMs do not pass SafetyNet or get Google Play Certification, re
 
 * **Russia Stable**
 
-[Download](http://en.miui.com/download.html)
+[Download](https://c.mi.com/global/miuidownload/index)
 
 All Xiaomi devices that are bought in Russia come with this type of ROM out of the box. It is a variant of Global Stable, tailor-made for the Russian market. It has Google services and Google apps pre-installed, as well as some Russian apps and services. As far as updates go, it lags behind China/Global Stable.
 
 * **India Stable**
 
-[Download](http://en.miui.com/download.html)
+[Download](https://c.mi.com/global/miuidownload/index)
 
 Xiaomi devices that are exclusive to India come with this type of ROM out of the box. It is a variant of Global Stable, tailor-made for the Indian market. It has Google services and Google apps pre-installed, as well as other Indian apps and services. As far as updates go, it lags behind China/Global Stable.
