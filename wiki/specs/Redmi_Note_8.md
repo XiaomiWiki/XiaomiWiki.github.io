@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
-* MIUI codename: ?
+* Codename: ?
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.79
 * OIS: No
 * Autofocus: Yes
-* Flash: Yes
+* Flash: Single-tone
 
 ---
 

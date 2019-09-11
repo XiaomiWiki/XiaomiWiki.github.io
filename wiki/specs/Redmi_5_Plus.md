@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): Redmi Note 5 (India)
-* Android codename: vince
-* MIUI codename: HM5Plus
+* Codename: vince
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: Dual tone LED
+* Flash: Dual-tone
 
 **Video recording**
 
@@ -52,7 +51,7 @@
 * Aperture: ?
 * OIS: No
 * Autofocus: No
-* Flash: LED
+* Flash: Single-tone
 
 ### Battery
 
@@ -118,7 +117,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

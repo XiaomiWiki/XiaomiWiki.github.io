@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): POCO F1 (India)
-* Android codename: beryllium
-* MIUI codename: POCOF1
+* Codename: beryllium
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.9
 * OIS: No
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.0
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -120,7 +120,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: IR assisted
 
 ### Sensors

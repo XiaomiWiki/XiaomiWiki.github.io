@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: jason
-* MIUI codename: MINote3
+* Codename: jason
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.8
 * OIS: Yes
 * Autofocus: Phase detection
-* Flash: Dual tone LED
+* Flash: Dual-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.0 µm
 * Aperture: f/2.6
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -115,7 +115,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Front
 * Facial recognition: No
 
 ### Sensors

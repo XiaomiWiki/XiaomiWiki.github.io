@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: wayne
-* MIUI codename: MI6X
+* Codename: wayne
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.75
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 2.0 µm
 * Aperture: f/1.75
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -60,7 +60,7 @@
 * Aperture: ?
 * OIS: No
 * Autofocus: No
-* Flash: LED
+* Flash: Single-tone
 
 ### Battery
 
@@ -115,7 +115,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

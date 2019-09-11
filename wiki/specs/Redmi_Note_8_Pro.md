@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: begonia
-* MIUI codename: ?
+* Codename: begonia
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.89
 * OIS: No
 * Autofocus: Phase detection
-* Flash: Yes
+* Flash: Single-tone
 
 ---
 

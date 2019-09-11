@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: grus
-* MIUI codename: MI9SE
+* Codename: grus
 
 ### Hardware
 
@@ -36,25 +35,25 @@
 * Aperture: f/1.75
 * OIS: No
 * Autofocus: Laser
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
 * Sensor: ?
 * Resolution: 8 megapixels
-* Pixel size: ?
+* Pixel size: 1.12 µm
 * Aperture: f/2.4
 * OIS: No
-* Autofocus: ?
+* Autofocus: No
 
 ---
 
 * Sensor: ?
 * Resolution: 13 megapixels
-* Pixel size: ?
+* Pixel size: 1.12 µm
 * Aperture: f/2.4
 * OIS: No
-* Autofocus: ?
+* Autofocus: No
 
 **Video recording**
 

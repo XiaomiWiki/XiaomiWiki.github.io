@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: clover
-* MIUI codename: MIPAD4
+* Codename: clover
 
 ### Hardware
 
@@ -103,7 +102,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Front
 * Facial recognition: No
 
 ### Sensors

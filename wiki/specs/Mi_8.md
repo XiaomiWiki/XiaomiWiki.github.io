@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: dipper
-* MIUI codename: MI8
+* Codename: dipper
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.8
 * OIS: Yes
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.0 µm
 * Aperture: f/2.4
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -115,7 +115,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: IR assisted
 
 ### Sensors

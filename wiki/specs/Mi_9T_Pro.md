@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): Redmi K20 Pro (Mainland China / India)
-* Android codename: raphael
-* MIUI codename: ?
+* Codename: raphael
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.75
 * OIS: No
 * Autofocus: Laser
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -70,7 +69,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: No
-* Flash: Yes
+* Flash: Single-tone
 
 ### Battery
 

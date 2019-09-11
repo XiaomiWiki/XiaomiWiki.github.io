@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: daisy / daisy_sprout
-* MIUI codename: -
+* Codename: daisy / daisy_sprout
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -113,7 +113,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: lavender
-* MIUI codename: HMNote7
+* Codename: lavender
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.8
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Rear camera (Note 7 Indian Version)**
 
@@ -54,7 +54,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Contrast
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -63,6 +63,7 @@
 * Pixel size: ?
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -144,7 +145,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

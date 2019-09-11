@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): Redmi K20 (Mainland China / India)
-* Android codename: davinci
-* MIUI codename: ?
+* Codename: davinci
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.75
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -70,7 +69,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: No
-* Flash: Yes
+* Flash: Single-tone
 
 ### Battery
 

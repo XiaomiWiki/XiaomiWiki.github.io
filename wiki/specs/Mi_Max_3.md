@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: nitrogen
-* MIUI codename: MIMAX3
+* Codename: nitrogen
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.9
 * OIS: No
 * Autofocus: Dual Pixel
-* Flash: Dual LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -60,7 +60,7 @@
 * Aperture: f/2.0
 * OIS: No
 * Autofocus: No
-* Flash: LED
+* Flash: Single-tone
 
 ### Battery
 
@@ -115,7 +115,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

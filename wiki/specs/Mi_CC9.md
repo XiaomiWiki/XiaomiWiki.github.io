@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: pyxis / vela (Meitu Edition)
-* MIUI codename: ?
+* Codename: pyxis / vela (Meitu Edition)
 
 ### Hardware
 
@@ -45,7 +44,7 @@
 * Aperture: f/1.79
 * OIS: No
 * Autofocus: Yes
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -54,6 +53,7 @@
 * Pixel size: ?
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 ---
 
@@ -62,6 +62,7 @@
 * Pixel size: ?
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 

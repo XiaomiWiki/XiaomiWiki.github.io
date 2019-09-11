@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: tiare
-* MIUI codename: -
+* Codename: tiare
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.0
 * OIS: No
 * Autofocus: Contrast
-* Flash: LED
+* Flash: Single-tone
 
 **Video recording**
 

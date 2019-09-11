@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: chiron
-* MIUI codename: MIMIX2
+* Codename: chiron
 
 ### Hardware
 
@@ -45,7 +44,7 @@
 * Aperture: f/2.0
 * OIS: Yes
 * Autofocus: Phase detection
-* Flash: Dual tone LED
+* Flash: Dual-tone
 
 **Video recording**
 
@@ -123,7 +122,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

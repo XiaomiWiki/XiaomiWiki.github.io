@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: lotus
-* MIUI codename: MIPLAY
+* Codename: lotus
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: ?
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -115,7 +115,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

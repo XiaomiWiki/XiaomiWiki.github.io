@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): Redmi Y2 (India)
-* Android codename: ysl
-* MIUI codename: HMS2
+* Codename: ysl
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -60,7 +60,7 @@
 * Aperture: f/2.0
 * OIS: No
 * Autofocus: No
-* Flash: LED
+* Flash: Single-tone
 
 ### Battery
 
@@ -126,7 +126,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

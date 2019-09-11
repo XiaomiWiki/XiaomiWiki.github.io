@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: cepheus
-* MIUI codename: MI9
+* Codename: cepheus
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.75
 * OIS: No
 * Autofocus: Laser
-* Flash: LED
+* Flash: Single-tone
 
 ---
 

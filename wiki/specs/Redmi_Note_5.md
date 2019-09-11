@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): Redmi Note 5 Pro (India)
-* Android codename: whyred
-* MIUI codename: HMNote5 / HMNote5Pro
+* Codename: whyred
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.9
 * OIS: No
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.0
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -60,7 +60,7 @@
 * Aperture: f/2.0
 * OIS: No
 * Autofocus: No
-* Flash: LED
+* Flash: Single-tone
 
 ### Camera (Indian Version)
 
@@ -72,7 +72,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -81,6 +81,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.0
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -96,7 +97,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: No
-* Flash: LED
+* Flash: Single-tone
 
 ### Battery
 
@@ -162,7 +163,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

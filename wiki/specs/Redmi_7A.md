@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: ?
-* MIUI codename: HM7A
+* Codename: pine
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 **Video recording**
 

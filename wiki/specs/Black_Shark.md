@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: shark
-* MIUI codename: -
+* Codename: shark
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.75
 * OIS: No
 * Autofocus: Phase detection
-* Flash: Dual tone LED
+* Flash: Dual-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.0 µm
 * Aperture: f/1.75
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -115,7 +115,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Front
 * Facial recognition: No
 
 ### Sensors

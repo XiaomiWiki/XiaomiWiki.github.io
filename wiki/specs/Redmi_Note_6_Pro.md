@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: tulip
-* MIUI codename: HMNote6Pro
+* Codename: tulip
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.9
 * OIS: No
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.2
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -69,6 +69,7 @@
 * Pixel size: 1.75 µm
 * Aperture: f/2.2
 * OIS: No
+* Autofocus: No
 
 ### Battery
 
@@ -121,7 +122,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

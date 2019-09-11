@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: andromeda
-* MIUI codename: ?
+* Codename: andromeda
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.8
 * OIS: Yes
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.0 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -69,6 +69,7 @@
 * Pixel size: 1.75 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 ### Battery
 
@@ -124,7 +125,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

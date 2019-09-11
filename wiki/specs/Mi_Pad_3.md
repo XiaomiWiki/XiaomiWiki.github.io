@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: cappu
-* MIUI codename: MIPAD3
+* Codename: cappu
 
 ### Hardware
 
@@ -35,7 +34,7 @@
 * Pixel size: ?
 * Aperture: f/2.2
 * OIS: No
-* Autofocus: ?
+* Autofocus: No
 * Flash: No
 
 **Video recording**

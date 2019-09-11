@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: equuleus
-* MIUI codename: MI8UD
+* Codename: equuleus
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.8
 * OIS: Yes
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.0 µm
 * Aperture: f/2.4
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 

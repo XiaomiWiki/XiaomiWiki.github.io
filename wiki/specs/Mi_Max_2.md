@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: oxygen
-* MIUI codename: MIMAX2
+* Codename: oxygen
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: Dual tone LED
+* Flash: Dual-tone
 
 **Video recording**
 
@@ -107,7 +106,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): Redmi Y1 Lite (India)
-* Android codename: ugglite
-* MIUI codename: HMNote5ALITE
+* Codename: ugglite
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: LED
+* Flash: Single-tone
 
 **Video recording**
 

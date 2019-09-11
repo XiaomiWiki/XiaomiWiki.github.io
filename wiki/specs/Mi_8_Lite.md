@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: platina
-* MIUI codename: MI8Lite
+* Codename: platina
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.9
 * OIS: No
 * Autofocus: Dual Pixel
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: ?
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -126,7 +126,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

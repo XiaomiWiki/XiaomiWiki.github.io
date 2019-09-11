@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: riva
-* MIUI codename: HM5A
+* Codename: riva
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Contrast
-* Flash: LED
+* Flash: Single-tone
 
 **Video recording**
 

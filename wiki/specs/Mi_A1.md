@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: tissot / tissot_sprout
-* MIUI codename: -
+* Codename: tissot / tissot_sprout
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/2.2
 * OIS: No
 * Autofocus: Phase detection
-* Flash: Dual tone LED
+* Flash: Dual-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.0 µm
 * Aperture: f/2.6
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
@@ -113,7 +113,7 @@
 
 ### Biometrics
 
-* Fingerprint sensor: Yes
+* Fingerprint sensor: Rear
 * Facial recognition: No
 
 ### Sensors

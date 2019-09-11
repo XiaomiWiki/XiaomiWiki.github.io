@@ -5,8 +5,7 @@
 ### General
 
 * Regional name(s): -
-* Android codename: laurus
-* MIUI codename: ?
+* Codename: laurus
 
 ### Hardware
 
@@ -36,7 +35,7 @@
 * Aperture: f/1.79
 * OIS: No
 * Autofocus: Yes
-* Flash: LED
+* Flash: Single-tone
 
 ---
 
@@ -45,6 +44,7 @@
 * Pixel size: 1.12 µm
 * Aperture: f/2.2
 * OIS: No
+* Autofocus: No
 
 ---
 
@@ -53,6 +53,7 @@
 * Pixel size: 1.75 µm
 * Aperture: f/2.4
 * OIS: No
+* Autofocus: No
 
 **Video recording**
 
