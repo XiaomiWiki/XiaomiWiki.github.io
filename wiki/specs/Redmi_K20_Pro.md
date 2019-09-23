@@ -1,17 +1,17 @@
 [Index page](../../)
 
-## Mi 9T / Redmi K20
+## Redmi K20 Pro / Mi 9T Pro
 
 ### General
 
-* Regional name(s): Redmi K20 (Mainland China / India)
-* Codename: davinci
+* Regional name(s): Redmi K20 Pro (Mainland China / India), Mi 9T Pro (Global)
+* Codename: raphael
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 730 @ 2.2 GHz
-* Memory: 6GB / 8GB
-* Storage: 64GB / 128GB / 256GB
+* SoC: Qualcomm Snapdragon 855 @ 2.84 GHz
+* Memory: 6GB / 8GB LPDDR4x @ 2133 MHz
+* Storage: 64GB / 128GB / 256GB UFS 2.1
 * MicroSD expansion: No
 
 ### Display
@@ -29,35 +29,35 @@
 
 **Rear camera**
 
-* Sensor: ?
+* Sensor: Sony IMX586
 * Resolution: 48 megapixels
 * Pixel size: 0.8 µm
 * Aperture: f/1.75
 * OIS: No
-* Autofocus: Phase detection
+* Autofocus: Laser
 * Flash: Single-tone
 
 ---
 
-* Sensor: ?
+* Sensor: OmniVision OV8856
 * Resolution: 8 megapixels
+* Pixel size: 1.12 µm
+* Aperture: f/2.4
+* OIS: No
+* Autofocus: Phase detection
+
+---
+
+* Sensor: Samsung S5K3L6
+* Resolution: 13 megapixels
 * Pixel size: 1.12 µm
 * Aperture: f/2.4
 * OIS: No
 * Autofocus: Contrast
 
----
-
-* Sensor: ?
-* Resolution: 13 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.4
-* OIS: No
-* Autofocus: No
-
 **Video recording**
 
-* Normal: 4K @ 30 fps / 1080p/720p @ 60 fps
+* Normal: 4K/1080p/720p @ 60 fps
 * High frame rate: No
 * Slow motion: 1080p/720p @ 960 fps
 
@@ -74,7 +74,7 @@
 ### Battery
 
 * Capacity: 4000 mAh
-* Wired charging: Qualcomm Quick Charge 3.0 (18W)
+* Wired charging: Qualcomm Quick Charge 4+ (27W)
 * Wireless charging: No
 
 ### Dimensions
@@ -112,7 +112,7 @@
 
 * Protocols: 802.11 a/b/g/n/ac
 * Bands: 2.4 GHz / 5 GHz
-* MIMO: MU-MIMO
+* MIMO: 2x2 / MU-MIMO
 
 **Bluetooth & NFC**
 
@@ -127,7 +127,7 @@
 ### Navigation
 
 * GPS: Yes
-* AGPS: No
+* AGPS: Yes
 * Galileo: Yes
 * GLONASS: Yes
 * QZSS: No

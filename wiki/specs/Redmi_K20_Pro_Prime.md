@@ -1,17 +1,17 @@
 [Index page](../../)
 
-## Mi 9T Pro / Redmi K20 Pro
+## Redmi K20 Pro Prime
 
 ### General
 
-* Regional name(s): Redmi K20 Pro (Mainland China / India)
-* Codename: raphael
+* Regional name(s): -
+* Codename: ?
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 855 @ 2.84 GHz
-* Memory: 6GB / 8GB LPDDR4x @ 2133 MHz
-* Storage: 64GB / 128GB / 256GB UFS 2.1
+* SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
+* Memory: 8GB / 12GB LPDDR4x @ 2133 MHz
+* Storage: 128GB / 512GB
 * MicroSD expansion: No
 
 ### Display
@@ -88,8 +88,6 @@
 
 * SIM slots: Nano + Nano
 
-**Chinese Version**
-
 | Network | Bands |
 |:---------:|:-------------------:|
 | FDD-LTE | B1/B3/B5/B7/B8 |
@@ -98,15 +96,6 @@
 | WCDMA | B1/B2/B5/B8 |
 | GSM | B2/B3/B5/B8 |
 | CDMA/EVDO | BC0 |
-
-**Global Version**
-
-| Network | Bands |
-|:-------:|:----------------------------:|
-| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20/B28 |
-| TDD-LTE | B38/B40 |
-| WCDMA | B1/B2/B4/B5/B8 |
-| GSM | B2/B3/B5/B8 |
 
 **Wi-Fi**
 
