@@ -16,7 +16,7 @@
 
 ### Display
 
-* Panel: AMOLED
+* Panel: OLED
 * Size: 6.39 inches
 * Resolution: 2340 x 1080 pixels
 * Pixel density: 403 ppi
@@ -90,7 +90,7 @@
 
 | Network | Bands |
 |:---------:|:----------------------------:|
-| TDD-5G | n78 |
+| 5G NR | n78 |
 | FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20/B28 |
 | TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |

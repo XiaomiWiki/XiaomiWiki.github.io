@@ -1,6 +1,6 @@
 [Index page](../../)
 
-## Redmi K20 Pro Prime
+## Mi MIX Alpha
 
 ### General
 
@@ -10,50 +10,48 @@
 ### Hardware
 
 * SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
-* Memory: 8GB / 12GB LPDDR4x @ 2133 MHz
-* Storage: 128GB / 512GB
+* Memory: 12GB LPDDR4x @ 2133 MHz
+* Storage: 512GB UFS 3.0
 * MicroSD expansion: No
 
 ### Display
 
-* Panel: AMOLED
-* Size: 6.39 inches
-* Resolution: 2340 x 1080 pixels
-* Pixel density: 403 ppi
+* Panel: OLED
+* Size: 7.92 inches
+* Resolution: 2088 x 2250 pixels
+* Pixel density: ?
 * Aspect ratio: ?
-* Brightness: 600 nits
-* Contrast ratio: 60000:1
-* Colour gamut: 103.8% NTSC
+* Brightness: ?
+* Contrast ratio: ?
+* Colour gamut: ?
 
 ### Camera
 
-**Rear camera**
-
-* Sensor: Sony IMX586
-* Resolution: 48 megapixels
+* Sensor: Samsung HMX
+* Resolution: 108 megapixels
 * Pixel size: 0.8 µm
-* Aperture: f/1.75
-* OIS: No
+* Aperture: f/1.69
+* OIS: Yes
 * Autofocus: Laser
 * Flash: Single-tone
 
 ---
 
-* Sensor: OmniVision OV8856
-* Resolution: 8 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.4
+* Sensor: Samsung S5K2L7
+* Resolution: 12 megapixels
+* Pixel size: 1.4 µm
+* Aperture: f/2.0
 * OIS: No
-* Autofocus: Phase detection
+* Autofocus: Dual Pixel
 
 ---
 
-* Sensor: Samsung S5K3L6
-* Resolution: 13 megapixels
-* Pixel size: 1.12 µm
-* Aperture: f/2.4
+* Sensor: Sony IMX350
+* Resolution: 20 megapixels
+* Pixel size: 1.0 µm
+* Aperture: f/2.2
 * OIS: No
-* Autofocus: Contrast
+* Autofocus: Laser
 
 **Video recording**
 
@@ -61,26 +59,16 @@
 * High frame rate: No
 * Slow motion: 1080p/720p @ 960 fps
 
-**Front camera**
-
-* Sensor: ?
-* Resolution: 20 megapixels
-* Pixel size: 0.8 µm
-* Aperture: f/2.2
-* OIS: No
-* Autofocus: No
-* Flash: Single-tone
-
 ### Battery
 
-* Capacity: 4000 mAh
-* Wired charging: Qualcomm Quick Charge 4+ (27W)
+* Capacity: 4050 mAh
+* Wired charging: Qualcomm Quick Charge 4+ (27W) / Xiaomi (40W)
 * Wireless charging: No
 
 ### Dimensions
 
-* Size: 156.7 x 74.3 x 8.8 mm
-* Weight: 191 g
+* Size: 154.38 x 72.3 x 10.4 mm
+* Weight: 241 g
 
 ### Connectivity
 
@@ -89,13 +77,13 @@
 * SIM slots: Nano + Nano
 
 | Network | Bands |
-|:---------:|:-------------------:|
-| FDD-LTE | B1/B3/B5/B7/B8 |
+|:--------:|:--------------------:|
+| 5G NR | n41/n78/n79 |
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8 |
 | TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B5/B8 |
 | GSM | B2/B3/B5/B8 |
-| CDMA/EVDO | BC0 |
 
 **Wi-Fi**
 
@@ -106,12 +94,12 @@
 **Bluetooth & NFC**
 
 * Bluetooth: 5.0
-* NFC: Yes
+* NFC: No
 
 **Ports**
 
 * USB: Type-C
-* Headphone jack: Yes
+* Headphone jack: No
 
 ### Navigation
 
@@ -136,4 +124,4 @@
 * Accelerometer: Yes
 * Barometer: No
 * Electronic compass: Yes
-* Hall: No
+* Hall: Yes

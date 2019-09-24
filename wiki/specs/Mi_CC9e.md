@@ -16,7 +16,7 @@
 
 ### Display
 
-* Panel: AMOLED
+* Panel: OLED
 * Size: 6.088 inches
 * Resolution: 1560 x 720 pixels
 * Pixel density: ?

@@ -1,17 +1,17 @@
 [Index page](../../)
 
-## Mi 9
+## Mi 9 Pro
 
 ### General
 
 * Regional name(s): -
-* Codename: cepheus
+* Codename: ?
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 855 @ 2.84 GHz
-* Memory: 6GB / 8GB / 12GB LPDDR4x @ 2133 MHz
-* Storage: 128GB / 256GB UFS 2.1
+* SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
+* Memory: 8GB / 12GB LPDDR4x @ 2133 MHz
+* Storage: 128GB / 256GB / 512GB
 * MicroSD expansion: No
 
 ### Display
@@ -73,14 +73,14 @@
 
 ### Battery
 
-* Capacity: 3300 mAh
-* Wired charging: Qualcomm Quick Charge 4+ (27W)
-* Wireless charging: Qi (20W)
+* Capacity: 4000 mAh
+* Wired charging: Qualcomm Quick Charge 4+ (27W) / Xiaomi (45W)
+* Wireless charging: Qi (30W)
 
 ### Dimensions
 
-* Size: 157.5 x 74.67 x 7.61 mm
-* Weight: 173 g
+* Size: 157.21 x 74.64 x 8.54 mm
+* Weight: 196 g
 
 ### Connectivity
 
@@ -88,27 +88,14 @@
 
 * SIM slots: Nano + Nano
 
-**Chinese Version**
-
 | Network | Bands |
 |:---------:|:----------------------------:|
+| 5G NR | n41/n78/n79 |
 | FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B17 |
 | TDD-LTE | B34/B38/B39/B40/B41 |
 | TD-SCDMA | B34/B39 |
 | WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
-| CDMA/EVDO | BC0 |
-
-**Global Version**
-
-| Network | Bands |
-|:---------:|:--------------------------------:|
-| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B12/B20/B28 |
-| TDD-LTE | B38/B39/B40 |
-| TD-SCDMA | B34/B39 |
-| WCDMA | B1/B2/B4/B5/B8 |
-| GSM | B2/B3/B5/B8 |
-| CDMA/EVDO | BC0 |
 
 **Wi-Fi**
 

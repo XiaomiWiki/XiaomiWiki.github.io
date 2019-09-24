@@ -14,9 +14,16 @@
 * Storage: 64GB / 128GB / 256GB UFS 2.1
 * MicroSD expansion: No
 
+**Premium Edition**
+
+* SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
+* Memory: 8GB / 12GB LPDDR4x @ 2133 MHz
+* Storage: 128GB / 512GB UFS 2.1
+* MicroSD expansion: No
+
 ### Display
 
-* Panel: AMOLED
+* Panel: OLED
 * Size: 6.39 inches
 * Resolution: 2340 x 1080 pixels
 * Pixel density: 403 ppi
