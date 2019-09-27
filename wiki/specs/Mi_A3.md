@@ -58,7 +58,6 @@
 **Video recording**
 
 * Normal: 4K @ 30 fps / 1080p/720p @ 60 fps
-* High frame rate: No
 * Slow motion: 1080p @ 120 fps / 720p @ 240 fps
 
 **Front camera**
@@ -113,25 +112,20 @@
 
 ### Navigation
 
-* GPS: Yes
-* AGPS: Yes
-* Galileo: No
-* GLONASS: Yes
-* QZSS: No
-* BDS: Yes
+* GPS
+* AGPS
+* GLONASS
+* BDS
 
 ### Biometrics
 
 * Fingerprint sensor: In-display
-* Facial recognition: No
 
 ### Sensors
 
-* Infrared: Yes
-* Proximity: Yes
-* Gyroscope: Yes
-* Ambient light: Yes
-* Accelerometer: Yes
-* Barometer: No
-* Electronic compass: Yes
-* Hall: No
+* Infrared
+* Proximity
+* Gyroscope
+* Ambient light
+* Accelerometer
+* Electronic compass

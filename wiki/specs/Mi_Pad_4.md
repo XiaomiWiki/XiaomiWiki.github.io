@@ -40,7 +40,6 @@
 **Video recording**
 
 * Normal: 1080p @ 30 fps
-* High frame rate: No
 * Slow motion: No
 
 **Front camera**
@@ -93,25 +92,15 @@
 
 ### Navigation (LTE version only)
 
-* GPS: Yes
-* AGPS: Yes
-* Galileo: No
-* GLONASS: Yes
-* QZSS: No
-* BDS: Yes
-
-### Biometrics
-
-* Fingerprint sensor: No
-* Facial recognition: No
+* GPS
+* AGPS
+* GLONASS
+* BDS
 
 ### Sensors
 
-* Infrared: No
-* Proximity: No
-* Gyroscope: Yes
-* Ambient light: Yes
-* Accelerometer: Yes
-* Barometer: No
-* Electronic compass: Yes (LTE version only)
-* Hall: Yes
+* Gyroscope
+* Ambient light
+* Accelerometer
+* Electronic compass (LTE version only)
+* Hall

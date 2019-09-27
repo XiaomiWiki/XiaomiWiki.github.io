@@ -40,7 +40,6 @@
 **Video recording**
 
 * Normal: 1080p @ 30 fps
-* High frame rate: No
 * Slow motion: No
 
 **Front camera**
@@ -82,27 +81,9 @@
 * USB: Type-C
 * Headphone jack: Yes
 
-### Navigation
-
-* GPS: No
-* AGPS: No
-* Galileo: No
-* GLONASS: No
-* QZSS: No
-* BDS: No
-
-### Biometrics
-
-* Fingerprint sensor: No
-* Facial recognition: No
-
 ### Sensors
 
-* Infrared: No
-* Proximity: No
-* Gyroscope: Yes
-* Ambient light: Yes
-* Accelerometer: Yes
-* Barometer: No
-* Electronic compass: No
-* Hall: Yes
+* Gyroscope
+* Ambient light
+* Accelerometer
+* Hall
