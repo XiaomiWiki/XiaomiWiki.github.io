@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 855 @ 2.84 GHz
 * Memory: 6GB LPDDR4x
 * Storage: 64GB / 128GB UFS 2.1
-* MicroSD expansion: No
 
 ### Display
 
@@ -74,7 +73,6 @@
 
 * Capacity: 3800 mAh
 * Wired charging: Qualcomm Quick Charge 4+ (27W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -110,8 +108,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

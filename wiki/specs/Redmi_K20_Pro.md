@@ -12,14 +12,12 @@
 * SoC: Qualcomm Snapdragon 855 @ 2.84 GHz
 * Memory: 6GB / 8GB LPDDR4x @ 2133 MHz
 * Storage: 64GB / 128GB / 256GB UFS 2.1
-* MicroSD expansion: No
 
 **Premium Edition**
 
 * SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
 * Memory: 8GB / 12GB LPDDR4x @ 2133 MHz
 * Storage: 128GB / 512GB UFS 2.1
-* MicroSD expansion: No
 
 ### Display
 
@@ -81,7 +79,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: Qualcomm Quick Charge 4+ (27W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -127,8 +124,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation
 

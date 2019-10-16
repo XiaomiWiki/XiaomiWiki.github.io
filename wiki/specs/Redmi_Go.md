@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 425 @ 1.4 GHz
 * Memory: 1GB
 * Storage: 8GB / 16GB
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -56,7 +56,6 @@
 
 * Capacity: 3000 mAh
 * Wired charging: 5W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -89,8 +88,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

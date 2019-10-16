@@ -12,7 +12,7 @@
 * SoC: MediaTek Helio P35 @ 2.3 GHz
 * Memory: 4GB LPDDR4x
 * Storage: 64GB eMMC 5.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -65,7 +65,6 @@
 
 * Capacity: 3000 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -100,8 +99,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

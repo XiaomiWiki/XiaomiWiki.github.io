@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 712 @ 2.3 GHz
 * Memory: 6GB LPDDR4x @ 1866 MHz
 * Storage: 64GB / 128GB UFS 2.1
-* MicroSD expansion: No
 
 ### Display
 
@@ -74,7 +73,6 @@
 
 * Capacity: 3070 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -120,8 +118,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

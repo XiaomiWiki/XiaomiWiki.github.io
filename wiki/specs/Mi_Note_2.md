@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 821 @ 2.35 GHz
 * Memory: 4GB / 6GB
 * Storage: 64GB / 128GB
-* MicroSD expansion: No
 
 ### Display
 
@@ -56,7 +55,6 @@
 
 * Capacity: 4070 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -104,8 +102,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation
 

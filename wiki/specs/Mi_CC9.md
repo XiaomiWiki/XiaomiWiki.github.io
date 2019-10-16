@@ -14,14 +14,14 @@
 * SoC: Qualcomm Snapdragon 710 @ 2.2 GHz
 * Memory: 6GB LPDDR4x @ 1866 MHz
 * Storage: 64GB / 128GB UFS 2.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 **Meitu Edition**
 
 * SoC: Qualcomm Snapdragon 710 @ 2.2 GHz
 * Memory: 8GB LPDDR4x @ 1866 MHz
 * Storage: 256GB UFS 2.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -83,7 +83,6 @@
 
 * Capacity: 4030 mAh
 * Wired charging: Qualcomm Quick Charge 4 (27W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -118,8 +117,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation
 

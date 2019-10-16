@@ -39,3 +39,9 @@ Xiaomi devices sold in Russia come with this type of ROM out of the box. It is a
 [Download](https://c.mi.com/global/miuidownload/index)
 
 Xiaomi devices sold in India come with this type of ROM out of the box. It is a variant of Global Stable, tailor-made for the Indian market. It has Google services and apps pre-installed, as well as some Indian apps and services. As far as updates go, it lags behind Global Stable.
+
+* **Indonesia Stable**
+
+[Download](https://c.mi.com/global/miuidownload/index)
+
+Xiaomi devices sold in Indonesia come with this type of ROM out of the box. It is a variant of Global Stable, tailor-made for the Indonesian market. It has Google services and apps pre-installed, as well as some apps and services popular in Indonesia. As far as updates go, it lags behind Global Stable.

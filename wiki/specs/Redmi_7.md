@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 632 @ 1.8 GHz
 * Memory: 2GB / 3GB / 4GB LPDDR3 @ 933 MHz
 * Storage: 16GB / 32GB / 64GB eMMC 5.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -65,7 +65,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -111,16 +110,14 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 
 * GPS
 * AGPS
-* Galileo
 * GLONASS
-* QZSS
 * BDS
 
 ### Biometrics

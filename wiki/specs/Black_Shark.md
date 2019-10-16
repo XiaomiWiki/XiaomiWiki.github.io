@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 845 @ 2.8 GHz
 * Memory: 6GB / 8GB LPDDR4x
 * Storage: 64GB / 128GB / 256GB UFS 2.1
-* MicroSD expansion: No
 
 ### Display
 
@@ -65,7 +64,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -100,8 +98,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
 * Memory: 8GB / 12GB LPDDR4x @ 2133 MHz
 * Storage: 128GB / 256GB / 512GB
-* MicroSD expansion: No
 
 ### Display
 
@@ -109,8 +108,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

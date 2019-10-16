@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 439 @ 2.0 GHz
 * Memory: 2GB / 3GB
 * Storage: 16GB / 32GB
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -56,7 +56,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -91,8 +90,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

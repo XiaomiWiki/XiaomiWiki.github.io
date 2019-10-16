@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 625 @ 2.0 GHz
 * Memory: 3GB / 4GB
 * Storage: 32GB / 64GB
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -65,7 +65,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -98,8 +97,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

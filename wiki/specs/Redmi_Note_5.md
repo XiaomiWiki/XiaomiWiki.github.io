@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 636 @ 1.8 GHz
 * Memory: 3GB / 4GB / 6GB LPDDR4x @ 1333 MHz
 * Storage: 32GB / 64GB / 128GB eMMC 5.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -101,7 +101,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: Qualcomm Quick Charge 2.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -147,8 +146,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

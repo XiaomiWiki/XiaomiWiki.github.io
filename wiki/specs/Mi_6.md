@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 835 @ 2.45 GHz
 * Memory: 4GB / 6GB LPDDR4x @ 1866 MHz
 * Storage: 64GB / 128GB UFS
-* MicroSD expansion: No
 
 ### Display
 
@@ -65,7 +64,6 @@
 
 * Capacity: 3350 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -107,8 +105,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

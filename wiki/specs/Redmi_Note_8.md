@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 665 @ 2.0 GHz
 * Memory: 4GB / 6GB
 * Storage: 64GB / 128GB
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -83,7 +83,6 @@
 
 * Capacity: 4000 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -110,8 +109,8 @@
 **Global Version**
 
 | Network | Bands |
-|:---------:|:--------------------------------:|
-| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20/B28 |
+|:-------:|:------------------------:|
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20 |
 | TDD-LTE | B38/B40 |
 | WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
@@ -129,8 +128,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation
 

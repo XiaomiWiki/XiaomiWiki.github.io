@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 450 @ 1.8 GHz
 * Memory: 2GB / 3GB / 4GB
 * Storage: 16GB / 32GB
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -56,7 +56,6 @@
 
 * Capacity: 3300 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -102,8 +101,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

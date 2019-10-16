@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 435
 * Memory: 3GB
 * Storage: 32GB
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -56,7 +56,6 @@
 
 * Capacity: 3080 mAh
 * Wired charging: ?
-* Wireless charging: No
 
 ### Dimensions
 
@@ -102,8 +101,8 @@
 
 **Ports**
 
-* USB: Micro
-* Headphone jack: Yes
+* Micro USB
+* Headphone jack
 
 ### Navigation
 

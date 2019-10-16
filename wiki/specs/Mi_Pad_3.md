@@ -12,7 +12,6 @@
 * SoC: MediaTek MT8176 @ 2.1 GHz
 * Memory: 4GB LPDDR3
 * Storage: 64GB eMMC 5.0
-* MicroSD expansion: No
 
 ### Display
 
@@ -56,7 +55,6 @@
 
 * Capacity: 6600 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -78,8 +76,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Sensors
 

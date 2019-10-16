@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 660 @ 2.2 GHz
 * Memory: 3GB / 4GB LPDDR4x
 * Storage: 32GB / 64GB eMMC 5.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -56,7 +56,6 @@
 
 * Capacity: 6000 mAh
 * Wired charging: 10W
-* Wireless charging: No
 
 ### Dimensions
 
@@ -87,8 +86,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation (LTE version only)
 

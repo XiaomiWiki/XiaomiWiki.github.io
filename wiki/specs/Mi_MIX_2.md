@@ -14,14 +14,12 @@
 * SoC: Qualcomm Snapdragon 835 @ 2.45 GHz
 * Memory: 6GB LPDDR4x
 * Storage: 64GB / 128GB / 256GB UFS 2.1
-* MicroSD expansion: No
 
 **Full Ceramic Version**
 
 * SoC: Qualcomm Snapdragon 835 @ 2.45 GHz
 * Memory: 8GB LPDDR4x
 * Storage: 128GB UFS 2.1
-* MicroSD expansion: No
 
 ### Display
 
@@ -65,7 +63,6 @@
 
 * Capacity: 3400 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -107,8 +104,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

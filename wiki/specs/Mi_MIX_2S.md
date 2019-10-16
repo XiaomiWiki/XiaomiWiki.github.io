@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 845 @ 2.8 GHz
 * Memory: 6GB / 8GB LPDDR4x
 * Storage: 64GB / 128GB / 256GB UFS
-* MicroSD expansion: No
 
 ### Display
 
@@ -113,8 +112,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 

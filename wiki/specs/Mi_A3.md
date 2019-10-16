@@ -12,7 +12,7 @@
 * SoC: Qualcomm Snapdragon 665 @ 2.0 GHz
 * Memory: 4GB LPDDR4x @ 1866 MHz
 * Storage: 64GB / 128GB UFS 2.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -74,7 +74,6 @@
 
 * Capacity: 4030 mAh
 * Wired charging: Qualcomm Quick Charge 3.0 (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -107,8 +106,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation
 

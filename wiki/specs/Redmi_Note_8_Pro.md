@@ -12,7 +12,7 @@
 * SoC: MediaTek Helio G90T @ 2.05 GHz
 * Memory: 4GB / 6GB LPDDR4x @ 2133 MHz
 * Storage: 64GB / 128GB UFS 2.1
-* MicroSD expansion: Yes
+* MicroSD expansion
 
 ### Display
 
@@ -83,7 +83,6 @@
 
 * Capacity: 4500 mAh
 * Wired charging: MediaTek Pump Express (18W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -129,8 +128,8 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: Yes
+* USB Type-C
+* Headphone jack
 
 ### Navigation
 

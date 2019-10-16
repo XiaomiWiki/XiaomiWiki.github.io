@@ -1,40 +1,40 @@
 [Index page](../../)
 
-## Redmi 5A
+## Redmi 8A
 
 ### General
 
 * Regional name(s): -
-* Codename: riva
+* Codename: olivelite
 
 ### Hardware
 
-* SoC: Qualcomm Snapdragon 425 @ 1.4 GHz
-* Memory: 2GB
-* Storage: 16GB
+* SoC: Qualcomm Snapdragon 439 @ 2.0 GHz
+* Memory: 3GB / 4GB
+* Storage: 32GB / 64GB
 * MicroSD expansion
 
 ### Display
 
 * Panel: IPS LCD
-* Size: 5 inches
-* Resolution: 1280 x 720 pixels
-* Pixel density: 296 ppi
-* Aspect ratio: 16:9
+* Size: 6.22 inches
+* Resolution: 1520 x 720 pixels
+* Pixel density: 270 ppi
+* Aspect ratio: 19:9
 * Brightness: ?
-* Contrast ratio: 1000:1
-* Colour gamut: 72% NTSC
+* Contrast ratio: 1500:1
+* Colour gamut: 70.8% NTSC
 
 ### Camera
 
 **Rear camera**
 
 * Sensor: ?
-* Resolution: 13 megapixels
+* Resolution: 12 megapixels
 * Pixel size: ?
-* Aperture: f/2.2
+* Aperture: ?
 * OIS: No
-* Autofocus: Contrast
+* Autofocus: Phase detection
 * Flash: Single-tone
 
 **Video recording**
@@ -45,22 +45,22 @@
 **Front camera**
 
 * Sensor: ?
-* Resolution: 5 megapixels
+* Resolution: 8 megapixels
 * Pixel size: ?
-* Aperture: f/2.0
+* Aperture: ?
 * OIS: No
 * Autofocus: No
 * Flash: No
 
 ### Battery
 
-* Capacity: 3000 mAh
-* Wired charging: 5W
+* Capacity: 5000 mAh
+* Wired charging: Qualcomm Quick Charge 3.0 (18W)
 
 ### Dimensions
 
-* Size: 140.4 x 70.1 x 8.35 mm
-* Weight: 137 g
+* Size: 156.5 x 75.4 x 9.4 mm
+* Weight: 188 g
 
 ### Connectivity
 
@@ -70,22 +70,22 @@
 
 **Chinese Version**
 
-|  Network  |   Bands   |
+| Network | Bands |
 |:---------:|:-------------------:|
-|  FDD-LTE  |    B1/B3/B5/B7/B8   |
-|   TDD-LTE  | B34/B38/B39/B40/B41 |
-|  TD-SCDMA |       B34/B39       |
-|   WCDMA   |     B1/B2/B5/B8     |
-|    GSM    |     B2/B3/B5/B8     |
-| CDMA/EVDO |         BC0         |
+| FDD-LTE | B1/B3/B5/B7/B8 |
+| TDD-LTE | B34/B38/B39/B40/B41 |
+| TD-SCDMA | B34/B39 |
+| WCDMA | B1/B2/B5/B8 |
+| GSM | B2/B3/B5/B8 |
+| CDMA/EVDO | BC0 |
 
 **Global Version**
 
 | Network | Bands |
-|:-------:|:---------------------:|
-| FDD-LTE | B1/B3/B4/B5/B7/B8/B20 |
+|:-------:|:------------------------:|
+| FDD-LTE | B1/B2/B3/B4/B5/B7/B8/B20 |
 | TDD-LTE | B38/B40 |
-| WCDMA | B1/B2/B5/B8 |
+| WCDMA | B1/B2/B4/B5/B8 |
 | GSM | B2/B3/B5/B8 |
 
 **Wi-Fi**
@@ -96,12 +96,12 @@
 
 **Bluetooth & NFC**
 
-* Bluetooth: 4.1
+* Bluetooth: 4.2
 * NFC: No
 
 **Ports**
 
-* Micro USB
+* USB Type-C
 * Headphone jack
 
 ### Navigation
@@ -113,7 +113,7 @@
 
 ### Sensors
 
-* Infrared
 * Proximity
 * Ambient light
 * Accelerometer
+* Electronic compass

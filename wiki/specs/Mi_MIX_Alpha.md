@@ -12,7 +12,6 @@
 * SoC: Qualcomm Snapdragon 855 Plus @ 2.96 GHz
 * Memory: 12GB LPDDR4x @ 2133 MHz
 * Storage: 512GB UFS 3.0
-* MicroSD expansion: No
 
 ### Display
 
@@ -62,7 +61,6 @@
 
 * Capacity: 4050 mAh
 * Wired charging: Qualcomm Quick Charge 4+ (27W) / Xiaomi (40W)
-* Wireless charging: No
 
 ### Dimensions
 
@@ -97,8 +95,7 @@
 
 **Ports**
 
-* USB: Type-C
-* Headphone jack: No
+* USB Type-C
 
 ### Navigation
 
