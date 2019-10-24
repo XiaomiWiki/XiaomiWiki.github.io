@@ -10,7 +10,7 @@ EDL (Emergency Download) mode is used in Qualcomm-based devices for unbricking/f
 
 1. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
-2. Connect the device in ADB or Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
+2. Connect the device in ADB or Fastboot mode. See the instructions [here](https://szaki.github.io/XiaomiADBFastbootTools/).
 
 3. Reboot the device to EDL mode by clicking Reboot device to EDL in the top menu.
 

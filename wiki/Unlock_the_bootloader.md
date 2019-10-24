@@ -32,7 +32,7 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
 3. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
-4. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
+4. Connect the device in Fastboot mode. See the instructions [here](https://szaki.github.io/XiaomiADBFastbootTools/).
 
 5. On the Fastboot tab, in the OEM Unlocker module, click Unlock.
 

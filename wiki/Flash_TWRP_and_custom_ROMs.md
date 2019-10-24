@@ -18,7 +18,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
-3. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
+3. Connect the device in Fastboot mode. See the instructions [here](https://szaki.github.io/XiaomiADBFastbootTools/).
 
 4. On the Fastboot tab, in the Flasher module browse for your recovery image, select the recovery partition and click Boot into image.
 
@@ -44,7 +44,7 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 2. Download and launch the Xiaomi ADB/Fastboot Tools from [here](Tools_for_Xiaomi_devices.md).
 
-3. Connect the device in Fastboot mode. See the instructions [here](https://saki-eu.github.io/XiaomiADBFastbootTools/).
+3. Connect the device in Fastboot mode. See the instructions [here](https://szaki.github.io/XiaomiADBFastbootTools/).
 
 4. On the Fastboot tab, in the Flasher module, check the autoboot option, then browse for your recovery image, select the recovery partition and click Flash image.
 

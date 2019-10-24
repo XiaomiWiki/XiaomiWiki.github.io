@@ -98,7 +98,7 @@
 
 [Download](http://xiaomitool.com/latestmut)
 
-### Xiaomi ADB/Fastboot Tools by Saki_EU
+### Xiaomi ADB/Fastboot Tools by Szaki
 
 **Supported platforms:** Windows/Mac/Linux
 
@@ -117,4 +117,4 @@
 * Get links to the latest Fastboot ROMs or download them right away
 * Switch between system/fastboot/EDL/recovery modes
 
-[Download](https://saki-eu.github.io/XiaomiADBFastbootTools/)
+[Download](https://szaki.github.io/XiaomiADBFastbootTools/)
