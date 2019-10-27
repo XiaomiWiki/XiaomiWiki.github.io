@@ -97,3 +97,6 @@
 * [Mi Pad 4](wiki/specs/Mi_Pad_4.md)
 * [Mi Pad 4 Plus](wiki/specs/Mi_Pad_4_Plus.md)
 * [Mi Pad 3](wiki/specs/Mi_Pad_3.md)
+
+## Wearables
+
