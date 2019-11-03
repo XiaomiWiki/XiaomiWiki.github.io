@@ -99,4 +99,4 @@
 * [Mi Pad 3](wiki/specs/Mi_Pad_3.md)
 
 ## Wearables
-
+* [Change watchface on Mi Band 4](wiki/change_mi_band4_watchface.md)
