@@ -64,6 +64,7 @@
 * [Mi Note 2](wiki/specs/Mi_Note_2.md)
 * [Mi CC9e](wiki/specs/Mi_CC9e.md)
 * [Mi CC9](wiki/specs/Mi_CC9.md)
+* [Mi CC9 Pro / Mi Note 10](wiki/specs/Mi_CC9_Pro.md)
 * [Mi Play](wiki/specs/Mi_Play.md)
 * [Redmi K20 / Mi 9T](wiki/specs/Redmi_K20.md)
 * [Redmi K20 Pro / Mi 9T Pro](wiki/specs/Redmi_K20_Pro.md)
