@@ -43,7 +43,7 @@
 * Pixel size: 1.4 µm
 * Aperture: f/2.0
 * OIS: No
-* Autofocus: No
+* Autofocus: Dual PD
 
 ---
 

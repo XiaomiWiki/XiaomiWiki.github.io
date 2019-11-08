@@ -69,6 +69,7 @@
 * [Redmi K20 / Mi 9T](wiki/specs/Redmi_K20.md)
 * [Redmi K20 Pro / Mi 9T Pro](wiki/specs/Redmi_K20_Pro.md)
 * [Redmi Note 8](wiki/specs/Redmi_Note_8.md)
+* [Redmi Note 8T](wiki/specs/Redmi_Note_8T.md)
 * [Redmi Note 8 Pro](wiki/specs/Redmi_Note_8_Pro.md)
 * [Redmi Note 7 / 7S](wiki/specs/Redmi_Note_7.md)
 * [Redmi Note 7 Pro](wiki/specs/Redmi_Note_7_Pro.md)
