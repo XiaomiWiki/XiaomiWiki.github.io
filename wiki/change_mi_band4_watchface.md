@@ -7,10 +7,15 @@ If you think the watchfaces included in the Mi Fit app aren't anything you like,
 
 # Installing
 Step 1. Download https://play.google.com/store/apps/details?id=com.html.watchfaceinstaller
+
 Step 2. Once it's installed, open it.
+
 Step 3. Press "Choose File".
+
 Step 4. Press the WF you want to install.
+
 Step 5. Press save to Mi Fit.
+
 Step 6. It will tell you which band display to select on Mi Fit. Now, navigate to that WF.
 
 
@@ -19,10 +24,15 @@ If you dont want to do the effort to install a custom one (The guide that I show
 
 # Installing 
 Step 1. Open Mi Fit
+
 Step 2. Navigate to profile
+
 Step 3. Tap on your band
+
 Step 4. Scroll down until you find Band display
+
 Step 5. Tap that, and find a WF you like.
+
 Step 6. Tap that WF and press install.
 
 PS: I dont use Mi Fit anymore, so this is straight from my brain.
