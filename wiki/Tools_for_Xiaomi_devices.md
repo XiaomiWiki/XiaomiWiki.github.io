@@ -13,9 +13,11 @@
 * Flash Fastboot ROM packages in EDL mode
 * Lock the bootloader of any Xiaomi device
 
-[Download (2019.07.01)](https://download.appmifile.com/images/2019/07/01/09cdc3a7-5a11-42aa-81f4-be27fe12ce80.msi)
+[Download (2019.10.30)](https://mega.nz/#!4wBUVC5Y!I97kVHY0ymlYsn5wT5CO286hZSDFraDKH-bOHWr_76A)
 
 **Older versions in case the latest one doesn't work:**
+
+[Download (2019.07.01)](https://download.appmifile.com/images/2019/07/01/09cdc3a7-5a11-42aa-81f4-be27fe12ce80.msi)
 
 [Download (2018.05.28)](http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip)
 
