@@ -37,9 +37,11 @@
 * Flash device in recovery mode
 * Flash Fastboot ROM packages in Fastboot mode
 
-[Download (4.3.1106.23)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/4.3.1106.23/miflash_pro-en-4.3.1106.23.zip)
+[Download (4.3.1108.24)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/4.3.1108.24/miflash_pro-en-4.3.1108.24.zip)
 
 **Older versions in case the latest one doesn't work:**
+
+[Download (4.3.1106.23)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/4.3.1106.23/miflash_pro-en-4.3.1106.23.zip)
 
 [Download (3.3.1212.88)](https://drive.google.com/file/d/15eSeySg4JPtO6FAbf8q7PSM67tEHb9Ht/view)
 
