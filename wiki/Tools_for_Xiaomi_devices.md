@@ -61,6 +61,30 @@
 
 [Download](http://en.miui.com/unlock/download_en.html)
 
+**Older versions in case the latest one doesn't work:**
+
+[Download (3.5.1108.44)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.5.1108.44/miflash_unlock-en-3.5.1108.44.zip)
+
+[Download (3.5.1030.37)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.5.1030.37/miflash_unlock-en-3.5.1030.37.zip)
+
+[Download (3.5.910.35)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.5.910.35/miflash_unlock-en-3.5.910.35.zip)
+
+[Download (3.5.724.32)](http://miuirom.xiaomi.com/rom/u1106245679/3.5.724.32/miflash_unlock-en-3.5.724.32.zip)
+
+[Download (3.5.722.31)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.5.722.31/miflash_unlock-en-3.5.722.31.zip)
+
+[Download (3.5.719.27)](http://miuirom.xiaomi.com/rom/u1106245679/3.5.719.27/miflash_unlock-en-3.5.719.27.zip)
+
+[Download (3.4.703.18)](http://miuirom.xiaomi.com/rom/u1106245679/3.4.703.18/miflash_unlock-en-3.4.703.18.zip)
+
+[Download (3.3.1212.33)](http://miuirom.xiaomi.com/rom/u1106245679/3.3.1212.33/miflash_unlock-en-3.3.1212.33.zip)
+
+[Download (3.3.827.31)](http://miuirom.xiaomi.com/rom/u1106245679/3.3.827.31/miflash_unlock-en-3.3.827.31.zip)
+
+[Download (3.3.525.23)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u265827351/3.3.525.23/miflash_unlock-en-3.3.525.23.zip)
+
+[Download (2.2.502.6)](http://miuirom.xiaomi.com/rom/u265827351/2.2.502.6/miflash_unlock-en-2.2.502.6.zip)
+
 ### XiaomiTool V2 by Francesco Tescari
 
 [Official website](https://www.xiaomitool.com/V2/)
