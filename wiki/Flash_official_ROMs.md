@@ -4,7 +4,7 @@
 
 ### Flash Recovery ROMs in MIUI
 
-1. Download the Recovery ROM you want to flash from [here](https://c.mi.com/global/miuidownload/index).
+1. Download the Recovery ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/).
 
 2. Use the device to download the ROM or connect it to your PC, enable MTP mode and transfer the downloaded ZIP to it.
 
@@ -16,7 +16,7 @@
 
 1. Download and unzip XiaomiADB from [here](Tools_for_Xiaomi_devices.md).
 
-2. Download the Recovery ROM you want to flash from [here](https://c.mi.com/global/miuidownload/index).
+2. Download the Recovery ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/).
 
 3. Enter MiRecovery by holding power and volume up simultaneously for 5-10 seconds, then select the third option (Connect with MiAssistant / 连接小米助手).
 
@@ -56,7 +56,7 @@
 
 1. Download the latest MiFlash from [here](Tools_for_Xiaomi_devices.md) and install it.
 
-2. Download the Fastboot ROM you want to flash from [here](https://c.mi.com/global/miuidownload/detail?guide=2) and unzip it.
+2. Download the Fastboot ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/) and unzip it.
 
     **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
 
@@ -84,7 +84,7 @@
 
 2. Launch MiFlash, install the necessary drivers by clicking Driver > Install/Reinstall in the top menu then reboot your PC.
 
-3. Download the Fastboot ROM you want to flash from [here](https://c.mi.com/global/miuidownload/detail?guide=2) and unzip it.
+3. Download the Fastboot ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/) and unzip it.
 
     **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
 
