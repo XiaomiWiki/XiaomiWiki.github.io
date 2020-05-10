@@ -17,9 +17,9 @@
 | vince | Redmi 5 Plus | Redmi 5 Plus | Redmi Note 5 | Redmi 5 Plus | - |
 | whyred | Redmi Note 5 | Redmi Note 5 | Redmi Note 5 Pro | Redmi Note 5 | - |
 | ysl | Redmi S2 | Redmi S2 | Redmi Y2 | Redmi S2 | - |
+| excalibur | - | - | - | Redmi Note 9 | - |
 | curtana |- | - | Redmi Note 9 Pro | Redmi Note 9S | - |
-| excalibur | - | - | Redmi Note 9 Pro Max | - | - |
-| joyeuse | - | - | - | Redmi Note 9 Pro | - |
+| joyeuse | - | - | Redmi Note 9 Pro Max | Redmi Note 9 Pro | - |
 
 **Additional notes:**
 
