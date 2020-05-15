@@ -67,6 +67,8 @@
 
 **Older versions in case the latest one doesn't work:**
 
+[Download (4.5.514.47)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/4.5.514.47/miflash_unlock-en-4.5.514.47.zip)
+
 [Download (3.5.1128.45)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.5.1128.45/miflash_unlock-en-3.5.1128.45.zip)
 
 [Download (3.5.1108.44)](http://xiaomi-miui-ota-3rdrom.ks3-cn-beijing.ksyun.com/rom/u1106245679/3.5.1108.44/miflash_unlock-en-3.5.1108.44.zip)
