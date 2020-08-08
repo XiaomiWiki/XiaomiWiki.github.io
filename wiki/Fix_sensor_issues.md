@@ -2,39 +2,33 @@
 
 ## Fix sensor issues
 
-On Xiaomi devices, sensor data is stored in a partition called *persist*. This partition is flashable and an image of it is included with all fastboot ROMs but devices made after 2016 don't allow you to modify it in fastboot mode, regardless of the status of the bootloader. Unfortunately, software issues may cause the sensors in the device to misbehave or stop working completely, but usually reflashing this partition solves these problems. If the partition is write protected in fastboot mode, you'll have to use Qualcomm's EDL mode or a custom recovery to flash it. The EDL flashing script originally skips the persist partition but you can modify it to flash that as well when you are flashing with MiFlash.
+On Xiaomi devices, sensor data is stored in a partition called *persist*. This partition is flashable and an image of it is included with all Fastboot ROMs but devices made after 2016 don't allow you to modify it in Fastboot mode, regardless of the status of the bootloader. Unfortunately, software issues may cause the sensors in the device to misbehave or stop working completely, but usually reflashing this partition solves these problems. If the partition is write protected in Fastboot mode, you'll have to use Qualcomm's EDL mode or a custom recovery to flash it. The EDL flashing script originally skips the persist partition but you can modify it to flash that as well when you are flashing with MiFlash.
 
-**Warning:** reflashing the persist file might cause your device to lose the Widevine L1 DRM certification (used for HD streaming of DRM protected content like that from Netflix, Amazon Prime Video, etc...), proceed with caution! 
+**Warning:** Reflashing `persist` might cause your device to lose the Widevine L1 DRM certification which is used to stream DRM protected content in HD on services such as Netflix or Amazon Prime Video.
 
 ## Instructions
 
-### Reflashing persist.img using a custom recovery 
+### Instructions using TWRP
 
-**Requirements:** An [unlocked bootloader](Unlock_the_bootloader.md), TWRP or some other TWRP-based custom recovery (OrangeFox, PBRP, etc..) 
-
-**Note:** For simplicity's sake, this guide will be focusing just on using TWRP, but the process should be more or less the same with any TWRP-based recovery.
+**Requirements:** An [unlocked bootloader](Unlock_the_bootloader.md) and [TWRP](Flash_TWRP_and_custom_ROMs.md) or a TWRP-based custom recovery (OrangeFox, PBRP, etc.)
 
 1. Download the Fastboot ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/) and unzip it.
 
     **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
-		
-2. Extract the `persist.img` image file from the `images` folder inside the unzipped Fastboot ROM archive.
 
-3. [Download the latest TWRP image and get it up and running on the device](Flash_TWRP_and_custom_ROMs.md) (either by booting it temporarily or flashing)
+2. Extract `persist.img` from the `images` folder inside the unzipped Fastboot ROM archive.
 
-4. Enter TWRP.
+3. Enter TWRP.
 
-    **If the device asks for decryption password**, ignore it, go to the Wipe menu, format data then reboot to TWRP again.
+    **If the device asks for decryption password**, input the PIN/password you use on your lock screen.
 
-    **Note:** TWRP is MTP enabled so if you connect the device to a PC, the internal and external storages become accessible.
+4. Connect the device to your PC and transfer `persist.img` to the device's internal or external storage.
 
-5. Connect the device to your PC and transfer the `persist.img` file to the device's internal or external storage.
-		
-6. Navigate to the Install menu, browse for the `persist.img` file you transferred to the device and flash it to the `Persist` partition. 
-    
-7. Once the flashing process has completed, reboot to the system.
+5. Navigate to the `Install` menu, tap `Select image`, browse for the file that you just transferred and flash it to the `Persist` partition.
 
-### Reflashing persist.img using EDL mode 
+6. Once the flashing process has completed, reboot to `System`.
+
+### Instructions using MiFlash in EDL mode
 
 **Requirements:** Qualcomm Snapdragon chipset
 
