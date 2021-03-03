@@ -1,0 +1,23 @@
+{
+  "name": "XiaomiWiki.github.io",
+  "version": "0.0.1",
+  "description": "Resources for Xiaomi devices, formerly hosted on r/Xiaomi",
+  "main": "index.js",
+  "authors": {
+    "name": "Anthony",
+    "email": ""
+  },
+  "repository": "https://github.com/Selenuix/XiaomiWiki.github.io//XiaomiWiki.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2"
+  }
+}
