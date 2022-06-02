@@ -44,6 +44,8 @@ To lock the bootloader, the device has to be clean installed in Fastboot mode. F
 
 Once a device has been unlocked, it can be locked and re-unlocked using the same account countless of times, anytime, on any official or custom ROM.
 
+**Note:** You can only re-lock the bootloader on an official ROM.
+
 ### Troubleshooting
 
 If you keep getting an error message when trying to add your account and device in developer options, move to a Developer ROM. See the instructions [here](Flash_official_ROMs.md).
